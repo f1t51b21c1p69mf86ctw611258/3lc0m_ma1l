@@ -1,0 +1,65 @@
+From - Sat May 24 11:16:04 2014
+X-Account-Key: account1
+X-UIDL: UID6160-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <bounces+1313392-87aa-nguyenth=elcom.com.vn@email.wikihow.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 10085 invoked by uid 89); 24 May 2014 04:10:07 -0000
+Received: by simscan 1.4.0 ppid: 10079, pid: 10080, t: 0.0102s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:19025
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 24 May 2014 04:10:07 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 31CA8454095
+	for <nguyenth@elcom.com.vn>; Sat, 24 May 2014 04:08:29 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DRBKPtNbm8vr for <nguyenth@elcom.com.vn>;
+	Sat, 24 May 2014 11:08:25 +0700 (ICT)
+Received-SPF: pass (email.wikihow.com: Sender is authorized to use 'bounces+1313392-87aa-nguyenth=elcom.com.vn@email.wikihow.com' in 'mfrom' identity (mechanism 'include:sendgrid.biz' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="bounces+1313392-87aa-nguyenth=elcom.com.vn@email.wikihow.com"; helo=o1.email.wikihow.com; client-ip=198.37.158.204
+Received: from o1.email.wikihow.com (o1.email.wikihow.com [198.37.158.204])
+	by mail-gw.elcom.com.vn (Postfix) with SMTP id 99706454087
+	for <nguyenth@elcom.com.vn>; Sat, 24 May 2014 11:08:24 +0700 (ICT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.wikihow.com; 
+	h=to:subject:from:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=BHgXH94U/TwzZto8AX2VWiJSG4I=; b=SbkrVXPPgRqykpOQBy
+	FxRdoSDVsarpaD9WLUFkgUGnAzvnpO2N3V+0t9eo3TkLIjKH9F5DvkwPhLDyi5SQ
+	do105oNTHGwiL21rWKrxKB9N/V5qwBs7AMJ5mN0G2gnw5DH1oBYNFJjAIWNWnIGI
+	3iT1yl9IXI6neAi1jjCTDYgfU=
+Received: by mf180.sendgrid.net with SMTP id mf180.32380.53801C219
+        Sat, 24 May 2014 04:12:17 +0000 (UTC)
+Received: from spare1.wikihow.com (spare1.wikihow.com [173.203.142.14])
+	by ismtpd-010 (SG) with ESMTP id 1462c6de401.7cb7.135ce1
+	for <nguyenth@elcom.com.vn>; Sat, 24 May 2014 04:12:17 +0000 (GMT)
+Received: by spare1.wikihow.com (Postfix, from userid 48)
+	id B38814438073; Fri, 23 May 2014 21:12:17 -0700 (PDT)
+To: Manucian86 <nguyenth@elcom.com.vn>
+Subject: Welcome to wikiHow! Please confirm your email address.
+From: wikiHow <wiki@wikihow.com>
+Date: Sat, 24 May 2014 04:12:17 +0000
+Message-ID: <wikidb_112.53801c21af7169.47232071@ssl.wikihow.com>
+X-Mailer: MediaWiki mailer
+MIME-Version: 1.0
+Content-type: text/plain; charset=UTF-8
+content-transfer-encoding: quoted-printable
+X-SG-EID: 7UtPqN1BOpcOMj6Xx6jLygAAiuDBL794j7908ndnYBIAbXlpciows+mDqV5uV6+dPmhDZf/ibwsrNioBL02M58PQb77B4rhNGeyuyjDOjoiwHHb0XkBFpBFeVQE0GQAPKIryQ8+6CGpyz0qreBoRhPFXF2F9dnL8mUeGbKftz50=
+
+Hello Manucian86, =0D
+=0D
+Thank you for registering for an account on wikiHow! We look forward to hav=
+ing you join our community of authors and editors. =0D
+=0D
+As a last step in the registration process, we need to verify your email ad=
+dress. Simply click the link below:=0D
+=0D
+http://www.wikihow.com/Special:ConfirmEmail/e2bef2a4c267d078a3de7b7dff6c95a=
+6=0D
+=0D
+If you have any questions, please feel free to contact us at support@wikiho=
+w.com.=0D
+=0D
+wikiHow Support
+

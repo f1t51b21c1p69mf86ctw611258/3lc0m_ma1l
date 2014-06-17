@@ -1,0 +1,2251 @@
+From - Wed May  7 07:50:46 2014
+X-Account-Key: account1
+X-UIDL: UID5979-1357785201
+X-Mozilla-Status: 0009
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <347-IAT-677.0.22098.0.0.7818.7.7855100@potomac1050.mktomail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 10764 invoked by uid 89); 6 May 2014 15:38:47 -0000
+Received: by simscan 1.4.0 ppid: 10758, pid: 10759, t: 0.0328s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18933
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 6 May 2014 15:38:47 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 31124451F34
+	for <nguyenth@elcom.com.vn>; Tue,  6 May 2014 15:36:50 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wjmxQE+PP5dF for <nguyenth@elcom.com.vn>;
+	Tue,  6 May 2014 22:36:43 +0700 (ICT)
+Received-SPF: pass (potomac1050.mktomail.com: Sender is authorized to use '347-IAT-677.0.22098.0.0.7818.7.7855100@potomac1050.mktomail.com' in 'mfrom' identity (mechanism 'include:mktomail.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="347-IAT-677.0.22098.0.0.7818.7.7855100@potomac1050.mktomail.com"; helo=potomac1059.mktomail.com; client-ip=199.15.213.59
+Received: from potomac1059.mktomail.com (potomac1059.mktomail.com [199.15.213.59])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id CD6E4451F2B
+	for <nguyenth@elcom.com.vn>; Tue,  6 May 2014 22:36:20 +0700 (ICT)
+DKIM-Signature: v=1; a=rsa-sha256; d=talend.com; s=m1; c=relaxed/relaxed;
+	q=dns/txt; i=@talend.com; t=1399390785;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=Gmz2qFkKR68/7XjQh9UQDlPrJKdyCz8FKsAUERPOYfc=;
+	b=YRVFdMnh+SZ5j+CqgtpzbuZDacZ7IjQtsXBX38XucVh8+M+QTwwx09o6qlHDrJsG
+	9Hjipt3GFqDYhGZRlZ/KqXrQfdFDb65Yh3UxmYPQDbonWMIF+cWmfVXgZyPH5Wyj
+	V3xLfeynNc+l0I+BpKJg/NwrPDk7NEaiU9vtnLrNlLU=;
+X-MSFBL: bmd1eWVudGhAZWxjb20uY29tLnZuQGR2cC0xOTktMTUtMjEzLTU5QGJnLWFiLTAx
+	QDM0Ny1JQVQtNjc3OjIwMDg2OjIyMDk4OjU4NjA5OjA6NzgxODo3Ojc4NTUxMDA=
+Received: from [10.1.8.1] ([10.1.8.1:47825] helo=abmas02.marketo.org)
+	by abmta02.marketo.org (envelope-from <newsletter@talend.com>)
+	(ecelerity 3.5.0.35861 r(Momo-dev:tip)) with ESMTP
+	id AE/F1-19397-14209635; Tue, 06 May 2014 10:39:45 -0500
+Date: Tue, 6 May 2014 10:39:45 -0500 (CDT)
+From: Talend <newsletter@talend.com>
+Reply-To: newsletter@talend.com
+To: nguyenth@elcom.com.vn
+Message-ID: <1587245366.608471385.1399390785478.JavaMail.root@abmas02.marketo.org>
+Subject: New Webinar: Discover the Talend Big Data Jumpstart Sandbox
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_608471384_1004519319.1399390785478"
+X-Report-Abuse: Please report abuse here: http://www.marketo.com/policy
+X-Binding: bg-ab-01
+X-MarketoID: 347-IAT-677:20086:22098:58609:0:7818:7:7855100
+List-Unsubscribe: <mailto:KJRWUS3SKRJGOOLSOR2WMVDVJRVVCT2OGJAT2PI.22098.7818.7@unsub-ab.mktomail.com>
+X-Mailfrom: 347-IAT-677.0.22098.0.0.7818.7.7855100@potomac1050.mktomail.com
+
+------=_Part_608471384_1004519319.1399390785478
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Webinar
+Discover the Talend Big Data Jumpstart Sandbox
+
+Register now and discover how big data works in a real life environment.
+
+Big data is a journey. It can take weeks to install and configure your envi=
+ronment. The Talend Big Data Jumpstart Sandbox is designed to get your big =
+data project moving quickly, through pre-configured and ready to run use-ca=
+ses, saving you time and effort. The Sandbox comes as a virtual image, whic=
+h includes:
+- Distribution of Apache Hadoop based on either Hortonworks or Cloudera
+ - 30 Day trial license for Talend Platform for Big Data
+ - Step-by-step Big Data Insights Cookbook with 3 big data scenarios ready =
+to run
+
+Our expert will:
+ - Show how to get started with the Talend Jumpstart Sandbox
+ - Walk-through scenario: Clickstream Analysis
+ - Show the end-2-end process of ingestion, transformation and visualizatio=
+n of click-stream data
+
+So don't miss this webinar and follow our expert during his Talend Big Data=
+ Tour.=20
+Register now and see what=E2=80=99s new: https://info.talend.com/Webinar_Ju=
+mpstart_140514.html
+
+Webinar
+Wednesday, May 14, 2014
+10:30 am - 11:30 am PST
+1:30 pm - 2:30 pm EST
+
+
+
+
+If you no longer wish to receive these emails, go to the following link to =
+unsubscribe: https://info.talend.com/UnsubscribePage.html?mkt_unsubscribe=
+=3D1&mkt_tok=3D3RkMMJWWfF9wsRokuazAeu%2FhmjTEU5z17OQoXKa2gokz2EFye%2BLIHETp=
+odcMS8pjPa%2BTFAwTG5toziV8R7PBK81p28EQXRbl.
+
+------=_Part_608471384_1004519319.1399390785478
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Talend</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:700italic,400,700,300italic|Rokkitt:700,400' rel='stylesheet' type='text/css'>
+<style type="text/css">
+* {
+        margin: 0px;
+        padding: 0px;
+}
+body {
+        font: 1em 'Source Sans Pro', Helvetica, Arial, sans-serif;
+        font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+        margin: 20px auto;
+        width: 640px;
+        background-color: #f5f6f8;
+}
+#border {
+        width: 640px;
+}
+ul {
+        padding-left: 1em;
+}
+li {
+        font-size: 13px;
+        line-height: 20px;
+        color: #4c4c4c;
+        padding-bottom: 3px;
+}
+p {
+        font-size: 13px;
+        line-height: 18px;
+        color: #4c4c4c;
+        padding-bottom: 12px;
+}
+h1 {
+        font-weight: normal;
+}
+h2 {
+        font-weight: normal;
+        font-size: 15px;
+        text-transform: uppercase;
+        margin-bottom:6px;
+        letter-spacing: 1px;
+        color: #c1d72e;
+}
+a, .highlight {
+        color: #2c66a7;
+}
+a {
+        outline: none;
+}
+a img {
+        border: 0;
+        outline: none;
+}
+</style>
+</head>
+<body ><div ><div class="mktEditable" ><div class="center">
+<div id="border">
+<table cellspacing="0" cellpadding="0" width="640" align="center" bgcolor="#F5F6F8">
+<tbody>
+<tr>
+<td colspan="4" align="right" valign="top"><a style="color: #2c66a7; font-size: 10px;" href="http://mkto-k0023.com/v/347IAT6770002Ph00wXta00">Forward to A Friend &gt;</a><br /> <br /></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td colspan="4" height="10" align="left" valign="top" bgcolor="#A4B4C4">
+<table border="0" cellspacing="0" cellpadding="0" width="638">
+<tbody>
+<tr>
+<td width="358" height="11"><img src="http://www.talend.com/sites/default/files/email_top_bar_sm.jpg" alt="Talend Banner" width="358" height="23" /></td>
+<td width="220" height="11" align="left" valign="middle"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" height="10" align="left" valign="top" bgcolor="#215A99"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="5" /></td>
+</tr>
+<tr>
+<td rowspan="3" height="126" valign="top" bgcolor="#2C66A7"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+<td width="410" height="15" bgcolor="#2C66A7"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="15" height="15" /></td>
+<td rowspan="3" width="170" height="126" align="right" valign="top" bgcolor="#2C66A7"><a href=
+"http://mkto-k0023.com/347IAT6770002Pr00wXta00"
+><img style="border: medium none;" src="http://www.talend.com/sites/default/files/talend-logo.gif" alt="Talend Logo" width="114" height="53" /></a></td>
+<td rowspan="3" height="126" align="right" valign="top" bgcolor="#2C66A7"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+</tr>
+<tr>
+<td height="63" valign="top" bgcolor="#2C66A7">
+<h2 style="font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-transform: uppercase; font-size: 15px; margin-bottom: 6px; letter-spacing: 1px; color: #c1d72e;">Webinar</h2>
+<h1 style="font-family: Arial, sans-serif; font-size: 20pt; color: #fff; font-weight: normal;">Discover the Talend Big Data Jumpstart Sandbox</h1>
+</td>
+</tr>
+<tr>
+<td height="15" bgcolor="#2C66A7"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="15" height="15" /></td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td height="30"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+<td colspan="2" height="30"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+<td height="30"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td width="30" height="250" align="left" valign="top"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+<td width="280" align="left" valign="top">
+<table cellspacing="0" cellpadding="0" width="410">
+<tbody>
+<tr>
+<td width="85" valign="top"><img src="http://www.talend.com/sites/default/files/bd-icon.gif" alt="Big Data" width="88" height="79" /></td>
+<td width="15" valign="top"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="15" height="30" /></td>
+<td width="278" valign="top">
+<p class="highlight" style="color: #2c66a7; font-weight: bold; font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 18px; text-align: justify;" align="justify">Register now and discover how big data works in a real life environment.</p>
+<p style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c; text-align: justify;" align="justify"><br /> Big data is a journey. It can take weeks to install and configure your environment. The Talend Big Data Jumpstart Sandbox is designed to get your big data project moving quickly, through pre-configured and ready to run use-cases, saving you time and effort.</p>
+<p style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c; text-align: justify;" align="justify">The Sandbox comes as a virtual image, which includes:</p>
+<ul>
+<li style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;"><span id="result_box" lang="en" xml:lang="en">Distribution of Apache Hadoop based on either Hortonworks or Cloudera</span></li>
+<li style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;"><span id="result_box2" lang="en" xml:lang="en">30 Day trial license for Talend Platform for Big Data</span></li>
+<li style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;"><span id="result_box3" lang="en" xml:lang="en">Step-by-step Big Data Insights Cookbook with 3 big data scenarios ready to run</span></li>
+</ul>
+<p style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;" align="justify"><br /> Our expert will:</p>
+<ul>
+<li style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;"><span id="result_box" lang="en" xml:lang="en">Show how to get started with the Talend Jumpstart Sandbox</span></li>
+<li style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;"><span id="result_box2" lang="en" xml:lang="en">Walk-through scenario: Clickstream Analysis</span></li>
+<li style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c;"><span id="result_box3" lang="en" xml:lang="en">Show the end-2-end process of ingestion, transformation and visualization of click-stream data</span></li>
+</ul>
+<p style="font-family: Helvetica,Arial,sans-serif; font-size: 13px; line-height: 20px; color: #4c4c4c; text-align: justify;" align="justify"><br /> So don't miss this webinar and follow our expert during his Talend Big Data Tour. <a href=
+"http://mkto-k0023.com/347IAT6770002Ps00wXta00"
+>Register now</a> and see what&rsquo;s new!</p>
+</td>
+<td width="30" valign="top"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td height="250" align="center" valign="top">
+<table border="1" cellspacing="0" cellpadding="0" width="168" bgcolor="#F6F9FC" bordercolor="#E4ECF2">
+<tbody>
+<tr>
+<td height="200" align="center"><a href=
+"http://mkto-k0023.com/347IAT6770002Pt00wXta00"
+><img style="border: 0;" src="http://www.talend.com/sites/default/files/webinar-live-email.gif" alt="webinar" width="130" height="130" /></a></td>
+</tr>
+</tbody>
+</table>
+<br />
+<p align="left"><span style="color: #6a6c71; font-family: Helvetica,Arial,sans-serif; font-size: x-small;">Webinar<br /> Wednesday, May 14, 2014<br /> 10:30 am - 11:30 am PST<br /> 1:30 pm - 2:30 pm EST</span></p>
+<p><a href=
+"http://mkto-k0023.com/347IAT6770002Pu00wXta00"
+><img style="border: none;" src="http://www.talend.com/sites/default/files/register-now-button.gif" alt="View Now" width="168" height="35" /></a></p>
+</td>
+<td width="30" align="center" valign="top"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+</tr>
+<tr bgcolor="#FFFFFF">
+<td colspan="4" height="30" align="left" valign="top"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+</tr>
+<tr>
+<td colspan="4" height="2" align="left" valign="top" bgcolor="#2C66A7"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="4" /></td>
+</tr>
+<tr>
+<td height="25" align="left" valign="top" bgcolor="#E5EEF6"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+<td colspan="2" height="25" align="left" valign="top">
+<table cellspacing="0" cellpadding="0" width="580">
+<tbody>
+<tr>
+<td colspan="2" height="10" bgcolor="#E5EEF6"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="10" /></td>
+</tr>
+<tr>
+<td width="150" valign="top" bgcolor="#E5EEF6"><a href=
+"http://mkto-k0023.com/347IAT6770002Pv00wXta00"
+><img style="border: medium none;" src="http://www.talend.com/sites/default/files/facebook.gif" alt="Facebook" width="19" height="19" /></a> <a href=
+"http://mkto-k0023.com/347IAT6770002Pw00wXta00"
+><img style="border: medium none;" src="http://www.talend.com/sites/default/files/twitter.gif" alt="Twitter" width="19" height="19" /></a> <a href=
+"http://mkto-k0023.com/347IAT6770002Px00wXta00"
+><img style="border: medium none;" src="http://www.talend.com/sites/default/files/linkedin.gif" alt="LinkedIn" width="19" height="19" /></a></td>
+<td width="430" bgcolor="#E5EEF6">
+<p style="font-family: Helvetica, Arial, sans-serif; font-size: 9px; color: #839bb1;">Talend&nbsp;|&nbsp;5150 El Camino Real, Suite C-31|&nbsp;Los Altos California 94022&nbsp;|&nbsp; USA&nbsp;|&nbsp;<a style="color: #839bb1;" href=
+"http://mkto-k0023.com/347IAT6770002Pr00wXta00"
+>www.talend.com</a><br /> &nbsp;+1 (650) 539 3200&nbsp;|&nbsp;<a style="color: #839bb1;" href=
+"http://mkto-k0023.com/347IAT6770002Py00wXta00"
+>sales@talend.com</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" height="10" bgcolor="#E5EEF6"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="10" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td height="25" align="left" valign="top" bgcolor="#E5EEF6"><img src="http://www.talend.com/sites/default/files/trans.gif" alt="" width="30" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></div>
+</div>
+
+<IMG SRC="http://mkto-k0023.com/trk?t=1&mid=MzQ3LUlBVC02Nzc6MjAwODY6MjIwOTg6NTg2MDk6MDo3ODE4Ojc6Nzg1NTEwMDpuZ3V5ZW50aEBlbGNvbS5jb20udm4%3D" WIDTH="1" HEIGHT="1" BORDER="0" ALT="" />
+
+<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href=
+"http://mkto-k0023.com/u/347IAT6770002Pz00wXta00"
+>Unsubscribe</a><br/> </font> </p>
+</body>
+</html>
+------=_Part_608471384_1004519319.1399390785478--
+
+From - Mon May 19 11:34:45 2014
+X-Account-Key: account1
+X-UIDL: UID6085-1357785201
+X-Mozilla-Status: 000b
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <linhpln@vn.ibm.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 32221 invoked by uid 89); 19 May 2014 04:26:04 -0000
+Received: by simscan 1.4.0 ppid: 32216, pid: 32217, t: 0.0272s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18999
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 19 May 2014 04:26:04 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 7BC5B453531
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 04:24:21 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 8aUg5U4vYHEG for <nguyenth@elcom.com.vn>;
+	Mon, 19 May 2014 11:24:15 +0700 (ICT)
+Received-SPF: softfail (vn.ibm.com: Sender is not authorized by default to use 'linhpln@vn.ibm.com' in 'mfrom' identity, however domain is not currently prepared for false failures (mechanism '~all' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="linhpln@vn.ibm.com"; helo=e8.ny.us.ibm.com; client-ip=32.97.182.138
+Received: from e8.ny.us.ibm.com (e8.ny.us.ibm.com [32.97.182.138])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 205C6453530
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 11:24:14 +0700 (ICT)
+Received: from /spool/local
+	by e8.ny.us.ibm.com with IBM ESMTP SMTP Gateway: Authorized Use Only! Violators will be prosecuted
+	for <nguyenth@elcom.com.vn> from <linhpln@vn.ibm.com>;
+	Mon, 19 May 2014 00:27:59 -0400
+Received: from d01dlp03.pok.ibm.com (9.56.250.168)
+	by e8.ny.us.ibm.com (192.168.1.108) with IBM ESMTP SMTP Gateway: Authorized Use Only! Violators will be prosecuted;
+	Mon, 19 May 2014 00:27:56 -0400
+Received: from b01cxnp22034.gho.pok.ibm.com (b01cxnp22034.gho.pok.ibm.com [9.57.198.24])
+	by d01dlp03.pok.ibm.com (Postfix) with ESMTP id DC130C90026
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 00:27:50 -0400 (EDT)
+Received: from d01av03.pok.ibm.com (d01av03.pok.ibm.com [9.56.224.217])
+	by b01cxnp22034.gho.pok.ibm.com (8.13.8/8.13.8/NCO v10.0) with ESMTP id s4J4RuTs8520100
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 04:27:56 GMT
+Received: from d01av03.pok.ibm.com (localhost [127.0.0.1])
+	by d01av03.pok.ibm.com (8.14.4/8.14.4/NCO v10.0 AVout) with ESMTP id s4J4RtQm003353
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 00:27:55 -0400
+Received: from d25lcore001.con.can.ibm.com (smtpgzrelay.con.can.ibm.com [9.29.224.18])
+	by d01av03.pok.ibm.com (8.14.4/8.14.4/NCO v10.0 AVin) with ESMTP id s4J4RtQ4003345
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 00:27:55 -0400
+Received: from d25dbw50.con.can.ibm.com (d25dbw50.con.can.ibm.com [9.29.224.87])
+	by d25lcore001.con.can.ibm.com (8.13.8/8.13.8) with ESMTP id s4J3wcQ2019689
+	for <nguyenth@elcom.com.vn>; Mon, 19 May 2014 03:58:38 GMT
+Date: Mon, 19 May 2014 00:27:55 -0400
+Reply-To: linhpln@vn.ibm.com
+From: linhpln@vn.ibm.com
+To: nguyenth@elcom.com.vn
+Subject: PENDING -  6/2/2014 BP - IBM Big Data Bootcamp
+Message-ID: <OF37AE2E88.B88FE638-ON85257CDD.00188739@con.can.ibm.com>
+X-MIMETrack: Serialize by Router on D25DBW50/WWE/D25EXT(Release 8.5.3FP5HF110 | September
+ 12, 2013) at 05/19/2014 00:27:54
+MIME-Version: 1.0
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF64EDF8B01A98f9e8a93df938690918c0ABBF64EDF8B01A9"
+Content-Disposition: inline
+X-TM-AS-MML: disable
+X-Content-Scanned: Fidelis XPS MAILER
+x-cbid: 14051904-0320-0000-0000-0000034E7599
+
+--0__=0ABBF64EDF8B01A98f9e8a93df938690918c0ABBF64EDF8B01A9
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: quoted-printable
+
+
+
+Dear Tran Nguyen,
+
+Thank you for your interest in the BP - IBM Big Data Bootcamp beginning=
+
+6/2/2014.
+
+We have received your enrollment request and it is now pending. The BP =
+-
+IBM Big Data Bootcamp has limited seating. You will receive a confirmat=
+ion
+notice with all the details of the event.
+
+PLEASE DO NOT MAKE TRAVEL RESERVATIONS UNTIL YOU RECEIVE YOUR CONFIRMAT=
+ION
+NOTE.
+
+If you have questions, please contact Pham Le Ngoc Linh at
+linhpln@vn.ibm.com.
+
+If you wish to cancel your event registration, please do so at
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=3D=
+kwockwn9h3mcj&lang=3Den
+
+
+Thank You.=
+
+--0__=0ABBF64EDF8B01A98f9e8a93df938690918c0ABBF64EDF8B01A9
+Content-type: text/html; charset=US-ASCII
+Content-Disposition: inline
+Content-transfer-encoding: quoted-printable
+
+<html><body>
+<p><font size=3D"2" face=3D"sans-serif">Dear Tran Nguyen,<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Thank you for your interest=
+ in the BP - IBM Big Data Bootcamp beginning &nbsp;6/2/2014.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">We have received your enrol=
+lment request and it is now pending. The BP - IBM Big Data Bootcamp has=
+ limited seating. You will receive a confirmation notice with all the d=
+etails of the event. &nbsp;<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">PLEASE DO NOT MAKE TRAVEL R=
+ESERVATIONS UNTIL YOU RECEIVE YOUR CONFIRMATION NOTE.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">If you have questions, plea=
+se contact Pham Le Ngoc Linh at linhpln@vn.ibm.com.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">If you wish to cancel your =
+event registration, please do so at <a href=3D"https://www.ibm.com/even=
+ts/swgeer/swgeer06.nsf/signin?openform&seminar=3Dkwockwn9h3mcj&lang=3De=
+n">https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&amp;s=
+eminar=3Dkwockwn9h3mcj&amp;lang=3Den</a><br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Thank You.</font></body></h=
+tml>=
+
+--0__=0ABBF64EDF8B01A98f9e8a93df938690918c0ABBF64EDF8B01A9--
+
+
+From - Tue May 20 19:22:24 2014
+X-Account-Key: account1
+X-UIDL: UID6123-1357785201
+X-Mozilla-Status: 1009
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <ckwan@ca.ibm.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 13582 invoked by uid 89); 20 May 2014 12:19:39 -0000
+Received: by simscan 1.4.0 ppid: 13577, pid: 13578, t: 0.0179s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:19005
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 20 May 2014 12:19:39 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 1743B453AE3
+	for <nguyenth@elcom.com.vn>; Tue, 20 May 2014 12:17:57 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id a8mPcXTaaQ1W for <nguyenth@elcom.com.vn>;
+	Tue, 20 May 2014 19:17:53 +0700 (ICT)
+Received-SPF: pass (ca.ibm.com: 32.97.110.160 is authorized to use 'ckwan@ca.ibm.com' in 'mfrom' identity (mechanism 'ptr:co.us.ibm.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="ckwan@ca.ibm.com"; helo=e39.co.us.ibm.com; client-ip=32.97.110.160
+Received: from e39.co.us.ibm.com (e39.co.us.ibm.com [32.97.110.160])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 206F8453AE7
+	for <nguyenth@elcom.com.vn>; Tue, 20 May 2014 19:17:49 +0700 (ICT)
+Received: from /spool/local
+	by e39.co.us.ibm.com with IBM ESMTP SMTP Gateway: Authorized Use Only! Violators will be prosecuted
+	for <nguyenth@elcom.com.vn> from <ckwan@ca.ibm.com>;
+	Tue, 20 May 2014 06:21:38 -0600
+Received: from d01dlp01.pok.ibm.com (9.56.250.166)
+	by e39.co.us.ibm.com (192.168.1.139) with IBM ESMTP SMTP Gateway: Authorized Use Only! Violators will be prosecuted;
+	Tue, 20 May 2014 06:21:36 -0600
+Received: from b01cxnp22036.gho.pok.ibm.com (b01cxnp22036.gho.pok.ibm.com [9.57.198.26])
+	by d01dlp01.pok.ibm.com (Postfix) with ESMTP id 48DA138C8054
+	for <nguyenth@elcom.com.vn>; Tue, 20 May 2014 08:21:35 -0400 (EDT)
+Received: from d01av05.pok.ibm.com (d01av05.pok.ibm.com [9.56.224.195])
+	by b01cxnp22036.gho.pok.ibm.com (8.13.8/8.13.8/NCO v10.0) with ESMTP id s4KCLPRS6422786
+	for <nguyenth@elcom.com.vn>; Tue, 20 May 2014 12:21:35 GMT
+Received: from d01av05.pok.ibm.com (localhost [127.0.0.1])
+	by d01av05.pok.ibm.com (8.14.4/8.14.4/NCO v10.0 AVout) with ESMTP id s4KCL1Eg021192
+	for <nguyenth@elcom.com.vn>; Tue, 20 May 2014 08:21:01 -0400
+Received: from d25ml02.torolab.ibm.com (d25ml02.torolab.ibm.com [9.26.29.95])
+	by d01av05.pok.ibm.com (8.14.4/8.14.4/NCO v10.0 AVin) with ESMTP id s4KCKx2n019882
+	for <nguyenth@elcom.com.vn>; Tue, 20 May 2014 08:21:01 -0400
+From: ckwan@ca.ibm.com
+Reply-To: linhpln@vn.ibm.com
+Subject: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -  6/2/2014 at 09:00
+ AM
+Auto-Submitted: auto-generated
+To: nguyenth@elcom.com.vn
+Cc: 
+Message-ID: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+Sender: Christine Kwan <ckwan@ca.ibm.com>
+Date: Tue, 20 May 2014 08:20:46 -0400
+X-MIMETrack: Serialize by Router on D25ML02/25/M/IBM(Release 9.0.1|October 14, 2013) at
+ 05/20/2014 08:21:00
+MIME-Version: 1.0
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF64DDFD04D398f9e8a93df938690918c0ABBF64DDFD04D39"
+Content-Disposition: inline
+X-TM-AS-MML: disable
+X-Content-Scanned: Fidelis XPS MAILER
+x-cbid: 14052012-9332-0000-0000-000000D7EC60
+
+--0__=0ABBF64DDFD04D398f9e8a93df938690918c0ABBF64DDFD04D39
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: quoted-printable
+
+
+
+Dear Tran Nguyen,
+
+We are pleased to confirm your enrollment at the BP - IBM Big Data Boot=
+camp
+beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam
+Room:
+
+
+Hanoi,
+Vietnam
+
+
+If you need to cancel your registration, please do so by accessing the
+registration site
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=3D=
+kwockwn9h3mcj&lang=3Den
+ for this event and using the cancel option.
+
+IBM employees, please remember to bring your IBM badge for identificati=
+on.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at linhpln@vn.ibm.c=
+om
+if you have any questions.
+
+Thank you for registering for the event.=
+
+--0__=0ABBF64DDFD04D398f9e8a93df938690918c0ABBF64DDFD04D39
+Content-type: text/html; charset=US-ASCII
+Content-Disposition: inline
+Content-transfer-encoding: quoted-printable
+
+<html><body>
+<p><font size=3D"2" face=3D"sans-serif">Dear Tran Nguyen,<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">We are pleased to confirm y=
+our enrollment at the BP - IBM Big Data Bootcamp beginning &nbsp;6/2/20=
+14 at 09:00 AM ending &nbsp;6/4/2014 at 05:00 PM.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Location: IBM TEC Ha Noi<br=
+>
+</font><font size=3D"2" face=3D"sans-serif">2nd Floor, Pacific Place, 8=
+3B Ly Thuong Kiet, Ha Noi, Viet Nam <br>
+</font><font size=3D"2" face=3D"sans-serif">Room: <br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Hanoi, &nbsp; &nbsp; <br>
+</font><font size=3D"2" face=3D"sans-serif">Vietnam<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">If you need to cancel your =
+registration, please do so by accessing the registration site <a href=3D=
+"https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=
+=3Dkwockwn9h3mcj&lang=3Den">https://www.ibm.com/events/swgeer/swgeer06.=
+nsf/signin?openform&amp;seminar=3Dkwockwn9h3mcj&amp;lang=3Den</a> for t=
+his event and using the cancel option. <br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">IBM employees, please remem=
+ber to bring your IBM badge for identification.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Please do not hesitate to c=
+ontact Pham Le Ngoc Linh at linhpln@vn.ibm.com if you have any question=
+s.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Thank you for registering f=
+or the event.</font></body></html>=
+
+--0__=0ABBF64DDFD04D398f9e8a93df938690918c0ABBF64DDFD04D39--
+
+
+From - Tue May 20 22:39:46 2014
+X-Account-Key: account1
+X-UIDL: UID6125-1357785201
+X-Mozilla-Status: 0009
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <nguyenth@elcom.com.vn>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 4512 invoked by uid 89); 20 May 2014 15:21:35 -0000
+Received: by simscan 1.4.0 ppid: 4496, pid: 4508, t: 0.0457s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:19005
+Received: from unknown (HELO Trans-MacBook-Pro.local) (nguyenth@elcom.com.vn@117.7.189.208)
+  by mail1 with ESMTPA; 20 May 2014 15:21:35 -0000
+Message-ID: <537B737F.5070104@elcom.com.vn>
+Date: Tue, 20 May 2014 22:23:43 +0700
+From: Tran Huu Nguyen <nguyenth@elcom.com.vn>
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: ELC/PM4/Dang Ha Vinh <vinhdh@elcom.com.vn>
+CC: ELC/PM4/Nguyen Duc Hinh <hinhnd@elcom.com.vn>
+Subject: Fwd: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -  6/2/2014
+ at 09:00 AM
+References: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+In-Reply-To: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+X-Forwarded-Message-Id: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+Content-Type: multipart/alternative;
+ boundary="------------040609040802070506010807"
+
+This is a multi-part message in MIME format.
+--------------040609040802070506010807
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hi anh,
+
+Mo^`ng 2/6 em ?a(ng ký tham gia Seminar này ?u+o+.c không a.?
+
+NguyenTH.
+
+
+-------- Original Message --------
+Subject: 	REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - 
+6/2/2014 at 09:00 AM
+Date: 	Tue, 20 May 2014 08:20:46 -0400
+From: 	ckwan@ca.ibm.com
+Reply-To: 	linhpln@vn.ibm.com
+To: 	nguyenth@elcom.com.vn
+
+
+
+Dear Tran Nguyen,
+
+We are pleased to confirm your enrollment at the BP - IBM Big Data 
+Bootcamp beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam
+Room:
+
+
+Hanoi,
+Vietnam
+
+
+If you need to cancel your registration, please do so by accessing the 
+registration site 
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=kwockwn9h3mcj&lang=en 
+for this event and using the cancel option.
+
+IBM employees, please remember to bring your IBM badge for identification.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at 
+linhpln@vn.ibm.com if you have any questions.
+
+Thank you for registering for the event.
+
+
+
+
+--------------040609040802070506010807
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Hi anh,<br>
+    <br>
+    M&#7891;ng 2/6 em &#273;&#259;ng k&yacute; tham gia Seminar n&agrave;y &#273;&#432;&#7907;c kh&ocirc;ng &#7841;?<br>
+    <br>
+    NguyenTH.<br>
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Original Message --------
+      <table class="moz-email-headers-table" border="0" cellpadding="0"
+        cellspacing="0">
+        <tbody>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Subject:
+            </th>
+            <td>REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -
+              6/2/2014 at 09:00 AM</td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Date: </th>
+            <td>Tue, 20 May 2014 08:20:46 -0400</td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">From: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:ckwan@ca.ibm.com">ckwan@ca.ibm.com</a></td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Reply-To:
+            </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a></td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">To: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:nguyenth@elcom.com.vn">nguyenth@elcom.com.vn</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <p><font face="sans-serif" size="2">Dear Tran Nguyen,<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">We are pleased to
+          confirm your enrollment at the BP - IBM Big Data Bootcamp
+          beginning &nbsp;6/2/2014 at 09:00 AM ending &nbsp;6/4/2014 at 05:00 PM.<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Location: IBM TEC Ha Noi<br>
+        </font><font face="sans-serif" size="2">2nd Floor, Pacific
+          Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam <br>
+        </font><font face="sans-serif" size="2">Room: <br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Hanoi, &nbsp; &nbsp; <br>
+        </font><font face="sans-serif" size="2">Vietnam<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">If you need to cancel
+          your registration, please do so by accessing the registration
+          site <a moz-do-not-send="true"
+href="https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&amp;seminar=kwockwn9h3mcj&amp;lang=en">https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&amp;seminar=kwockwn9h3mcj&amp;lang=en</a>
+          for this event and using the cancel option. <br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">IBM employees, please
+          remember to bring your IBM badge for identification.<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Please do not hesitate
+          to contact Pham Le Ngoc Linh at <a class="moz-txt-link-abbreviated" href="mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a> if you have
+          any questions.<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Thank you for
+          registering for the event.</font>
+      </p>
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------040609040802070506010807--
+
+From - Wed May 21 21:55:37 2014
+X-Account-Key: account1
+X-UIDL: UID6131-1357785201
+X-Mozilla-Status: 0019
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <hinhnd@elcom.com.vn>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 4065 invoked by uid 89); 21 May 2014 03:44:02 -0000
+Received: from unknown (HELO AdminPC) (hinhnd@elcom.com.vn@192.168.7.207)
+  by mail1 with ESMTPA; 21 May 2014 03:44:02 -0000
+From: "Nguyen Duc Hinh" <hinhnd@elcom.com.vn>
+To: "'Dang Ha Vinh'" <vinhdh@elcom.com.vn>,
+	"'Tran Huu Nguyen'" <nguyenth@elcom.com.vn>
+References: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com> <537B737F.5070104@elcom.com.vn> <000e01cf7494$115c7ed0$34157c70$@elcom.com.vn>
+In-Reply-To: <000e01cf7494$115c7ed0$34157c70$@elcom.com.vn>
+Subject: RE: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -  6/2/2014 at 09:00 AM
+Date: Wed, 21 May 2014 10:46:11 +0700
+Message-ID: <007501cf74a7$35256f80$9f704e80$@com.vn>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0076_01CF74E1.E1844780"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: AQGxBI+llefZStZ5tMhKiJUJmFe+XALXkzhCm3BiLcCAABdKYA==
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0076_01CF74E1.E1844780
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi anh & Nguy=C3=AAn,
+
+=20
+
+Nguy=C3=AAn ch=E1=BB=A7 =C4=91=E1=BB=99ng b=E1=BB=91 tr=C3=AD =
+th=E1=BB=9Di gian tham gia cho hi=E1=BB=87u qu=E1=BA=A3. Em share =
+th=C3=B4ng tin n=C3=A0y cho anh em kh=C3=A1c( T=E1=BA=A5n/ S=C6=A1n) =
+n=E1=BA=BFu quan t=C3=A2m th=C3=AC c=C3=B9ng =C4=91=C4=83ng k=C3=BD tham =
+gia lu=C3=B4n nh=C3=A9.
+
+=20
+
+=20
+
+Brgds,
+
+-- Hinh
+
+=20
+
+From: Dang Ha Vinh [mailto:vinhdh@elcom.com.vn]=20
+Sent: Wednesday, May 21, 2014 8:29 AM
+To: 'Tran Huu Nguyen'
+Cc: 'ELC/PM4/Nguyen Duc Hinh'
+Subject: RE: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - =
+6/2/2014 at 09:00 AM
+
+=20
+
+Hinh xem c=C3=A1c c=C3=B4ng vi=E1=BB=87c li=C3=AAn quan c=E1=BB=A7a =
+Nguy=C3=AAn nh=C3=A9? N=E1=BA=BFu b=E1=BB=91 tr=C3=AD =
+=C4=91=C6=B0=E1=BB=A3c th=C3=AC t=E1=BA=A1o =C4=91i=E1=BB=81u =
+ki=E1=BB=87n cho anh em tham gia.
+
+=20
+
+=20
+
+From: Tran Huu Nguyen [mailto:nguyenth@elcom.com.vn]=20
+Sent: Tuesday, May 20, 2014 10:24 PM
+To: ELC/PM4/Dang Ha Vinh
+Cc: ELC/PM4/Nguyen Duc Hinh
+Subject: Fwd: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - =
+6/2/2014 at 09:00 AM
+
+=20
+
+Hi anh,
+
+M=E1=BB=93ng 2/6 em =C4=91=C4=83ng k=C3=BD tham gia Seminar n=C3=A0y =
+=C4=91=C6=B0=E1=BB=A3c kh=C3=B4ng =E1=BA=A1?
+
+NguyenTH.
+
+
+
+-------- Original Message --------=20
+
+
+Subject:=20
+
+REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at =
+09:00 AM
+
+
+Date:=20
+
+Tue, 20 May 2014 08:20:46 -0400
+
+
+From:=20
+
+ckwan@ca.ibm.com
+
+
+Reply-To:=20
+
+linhpln@vn.ibm.com
+
+
+To:=20
+
+nguyenth@elcom.com.vn
+
+=20
+
+Dear Tran Nguyen,
+
+We are pleased to confirm your enrollment at the BP - IBM Big Data =
+Bootcamp beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam=20
+Room:=20
+
+
+Hanoi,    =20
+Vietnam
+
+
+If you need to cancel your registration, please do so by accessing the =
+registration site =
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform =
+<https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=3D=
+kwockwn9h3mcj&lang=3Den> &seminar=3Dkwockwn9h3mcj&lang=3Den for this =
+event and using the cancel option.=20
+
+IBM employees, please remember to bring your IBM badge for =
+identification.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at =
+linhpln@vn.ibm.com if you have any questions.
+
+Thank you for registering for the event.=20
+
+=20
+
+=20
+
+
+------=_NextPart_000_0076_01CF74E1.E1844780
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" =
+xmlns:p=3D"urn:schemas-microsoft-com:office:powerpoint" =
+xmlns:a=3D"urn:schemas-microsoft-com:office:access" =
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" =
+xmlns:s=3D"uuid:BDC6E3F0-6DA3-11d1-A2A3-00AA00C14882" =
+xmlns:rs=3D"urn:schemas-microsoft-com:rowset" xmlns:z=3D"#RowsetSchema" =
+xmlns:b=3D"urn:schemas-microsoft-com:office:publisher" =
+xmlns:ss=3D"urn:schemas-microsoft-com:office:spreadsheet" =
+xmlns:c=3D"urn:schemas-microsoft-com:office:component:spreadsheet" =
+xmlns:odc=3D"urn:schemas-microsoft-com:office:odc" =
+xmlns:oa=3D"urn:schemas-microsoft-com:office:activation" =
+xmlns:html=3D"http://www.w3.org/TR/REC-html40" =
+xmlns:q=3D"http://schemas.xmlsoap.org/soap/envelope/" =
+xmlns:rtc=3D"http://microsoft.com/officenet/conferencing" =
+xmlns:D=3D"DAV:" xmlns:Repl=3D"http://schemas.microsoft.com/repl/" =
+xmlns:mt=3D"http://schemas.microsoft.com/sharepoint/soap/meetings/" =
+xmlns:x2=3D"http://schemas.microsoft.com/office/excel/2003/xml" =
+xmlns:ppda=3D"http://www.passport.com/NameSpace.xsd" =
+xmlns:ois=3D"http://schemas.microsoft.com/sharepoint/soap/ois/" =
+xmlns:dir=3D"http://schemas.microsoft.com/sharepoint/soap/directory/" =
+xmlns:ds=3D"http://www.w3.org/2000/09/xmldsig#" =
+xmlns:dsp=3D"http://schemas.microsoft.com/sharepoint/dsp" =
+xmlns:udc=3D"http://schemas.microsoft.com/data/udc" =
+xmlns:xsd=3D"http://www.w3.org/2001/XMLSchema" =
+xmlns:sub=3D"http://schemas.microsoft.com/sharepoint/soap/2002/1/alerts/"=
+ xmlns:ec=3D"http://www.w3.org/2001/04/xmlenc#" =
+xmlns:sp=3D"http://schemas.microsoft.com/sharepoint/" =
+xmlns:sps=3D"http://schemas.microsoft.com/sharepoint/soap/" =
+xmlns:xsi=3D"http://www.w3.org/2001/XMLSchema-instance" =
+xmlns:udcs=3D"http://schemas.microsoft.com/data/udc/soap" =
+xmlns:udcxf=3D"http://schemas.microsoft.com/data/udc/xmlfile" =
+xmlns:udcp2p=3D"http://schemas.microsoft.com/data/udc/parttopart" =
+xmlns:wf=3D"http://schemas.microsoft.com/sharepoint/soap/workflow/" =
+xmlns:dsss=3D"http://schemas.microsoft.com/office/2006/digsig-setup" =
+xmlns:dssi=3D"http://schemas.microsoft.com/office/2006/digsig" =
+xmlns:mdssi=3D"http://schemas.openxmlformats.org/package/2006/digital-sig=
+nature" =
+xmlns:mver=3D"http://schemas.openxmlformats.org/markup-compatibility/2006=
+" xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns:mrels=3D"http://schemas.openxmlformats.org/package/2006/relationshi=
+ps" xmlns:spwp=3D"http://microsoft.com/sharepoint/webpartpages" =
+xmlns:ex12t=3D"http://schemas.microsoft.com/exchange/services/2006/types"=
+ =
+xmlns:ex12m=3D"http://schemas.microsoft.com/exchange/services/2006/messag=
+es" =
+xmlns:pptsl=3D"http://schemas.microsoft.com/sharepoint/soap/SlideLibrary/=
+" =
+xmlns:spsl=3D"http://microsoft.com/webservices/SharePointPortalServer/Pub=
+lishedLinksService" xmlns:Z=3D"urn:schemas-microsoft-com:" =
+xmlns:st=3D"&#1;" xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DGenerator content=3D"Microsoft Word 12 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1" />
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=3Dwhite lang=3DEN-US link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Hi anh &amp; Nguy=C3=AAn,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Nguy=C3=AAn ch=E1=BB=A7 =C4=91=E1=BB=99ng b=E1=BB=91 =
+tr=C3=AD th=E1=BB=9Di gian tham gia cho hi=E1=BB=87u qu=E1=BA=A3. Em =
+share
+th=C3=B4ng tin n=C3=A0y cho anh em kh=C3=A1c( T=E1=BA=A5n/ S=C6=A1n) =
+n=E1=BA=BFu quan t=C3=A2m th=C3=AC c=C3=B9ng =C4=91=C4=83ng k=C3=BD tham =
+gia
+lu=C3=B4n nh=C3=A9.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Brgds,<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>-- Hinh<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> Dang Ha Vinh
+[mailto:vinhdh@elcom.com.vn] <br>
+<b>Sent:</b> Wednesday, May 21, 2014 8:29 AM<br>
+<b>To:</b> 'Tran Huu Nguyen'<br>
+<b>Cc:</b> 'ELC/PM4/Nguyen Duc Hinh'<br>
+<b>Subject:</b> RE: REGISTRATION CONFIRMATION: BP - IBM Big Data =
+Bootcamp -
+6/2/2014 at 09:00 AM<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Hinh xem c=C3=A1c c=C3=B4ng vi=E1=BB=87c li=C3=AAn quan =
+c=E1=BB=A7a Nguy=C3=AAn nh=C3=A9? N=E1=BA=BFu b=E1=BB=91 tr=C3=AD =
+=C4=91=C6=B0=E1=BB=A3c
+th=C3=AC t=E1=BA=A1o =C4=91i=E1=BB=81u ki=E1=BB=87n cho anh em tham =
+gia.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in'>
+
+<p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";
+color:windowtext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:
+"Tahoma","sans-serif";color:windowtext'> Tran Huu Nguyen =
+[mailto:nguyenth@elcom.com.vn]
+<br>
+<b>Sent:</b> Tuesday, May 20, 2014 10:24 PM<br>
+<b>To:</b> ELC/PM4/Dang Ha Vinh<br>
+<b>Cc:</b> ELC/PM4/Nguyen Duc Hinh<br>
+<b>Subject:</b> Fwd: REGISTRATION CONFIRMATION: BP - IBM Big Data =
+Bootcamp -
+6/2/2014 at 09:00 AM<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Hi anh,<br>
+<br>
+M=E1=BB=93ng 2/6 em =C4=91=C4=83ng k=C3=BD tham gia Seminar n=C3=A0y =
+=C4=91=C6=B0=E1=BB=A3c kh=C3=B4ng =E1=BA=A1?<br>
+<br>
+NguyenTH.<o:p></o:p></p>
+
+<div>
+
+<p class=3DMsoNormal><br>
+<br>
+-------- Original Message -------- <o:p></o:p></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0>
+ <tr>
+  <td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>Subject: <o:p></o:p></b></p>
+  </td>
+  <td style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal>REGISTRATION CONFIRMATION: BP - IBM Big Data =
+Bootcamp -
+  6/2/2014 at 09:00 AM<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dright style=3D'text-align:right'><b>Date: =
+<o:p></o:p></b></p>
+  </td>
+  <td style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal>Tue, 20 May 2014 08:20:46 -0400<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dright style=3D'text-align:right'><b>From: =
+<o:p></o:p></b></p>
+  </td>
+  <td style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal><a =
+href=3D"mailto:ckwan@ca.ibm.com">ckwan@ca.ibm.com</a><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>Reply-To: <o:p></o:p></b></p>
+  </td>
+  <td style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal><a =
+href=3D"mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal align=3Dright style=3D'text-align:right'><b>To: =
+<o:p></o:p></b></p>
+  </td>
+  <td style=3D'padding:0in 0in 0in 0in'>
+  <p class=3DMsoNormal><a =
+href=3D"mailto:nguyenth@elcom.com.vn">nguyenth@elcom.com.vn</a><o:p></o:p=
+></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p>
+
+<p><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>Dear Tran
+Nguyen,<br>
+<br>
+We are pleased to confirm your enrollment at the BP - IBM Big Data =
+Bootcamp
+beginning &nbsp;6/2/2014 at 09:00 AM ending &nbsp;6/4/2014 at 05:00 =
+PM.<br>
+<br>
+Location: IBM TEC Ha Noi<br>
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam <br>
+Room: <br>
+<br>
+<br>
+Hanoi, &nbsp; &nbsp; <br>
+Vietnam<br>
+<br>
+<br>
+If you need to cancel your registration, please do so by accessing the
+registration site <a
+href=3D"https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&am=
+p;seminar=3Dkwockwn9h3mcj&amp;lang=3Den">https://www.ibm.com/events/swgee=
+r/swgeer06.nsf/signin?openform&amp;seminar=3Dkwockwn9h3mcj&amp;lang=3Den<=
+/a>
+for this event and using the cancel option. <br>
+<br>
+IBM employees, please remember to bring your IBM badge for =
+identification.<br>
+<br>
+Please do not hesitate to contact Pham Le Ngoc Linh at <a
+href=3D"mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a> if you have =
+any
+questions.<br>
+<br>
+Thank you for registering for the event.</span> <o:p></o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_0076_01CF74E1.E1844780--
+
+
+From - Wed May 21 21:55:37 2014
+X-Account-Key: account1
+X-UIDL: UID6133-1357785201
+X-Mozilla-Status: 0019
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <vinhdh@elcom.com.vn>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 26620 invoked by uid 89); 21 May 2014 06:10:29 -0000
+Received: from unknown (HELO VinhDH) (vinhdh@elcom.com.vn@192.168.7.224)
+  by mail1 with ESMTPA; 21 May 2014 06:10:29 -0000
+From: "Dang Ha Vinh" <vinhdh@elcom.com.vn>
+To: "'Nguyen Duc Hinh'" <hinhnd@elcom.com.vn>,
+	"'Tran Huu Nguyen'" <nguyenth@elcom.com.vn>
+References: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com> <537B737F.5070104@elcom.com.vn> <000e01cf7494$115c7ed0$34157c70$@elcom.com.vn> <007501cf74a7$35256f80$9f704e80$@com.vn>
+In-Reply-To: <007501cf74a7$35256f80$9f704e80$@com.vn>
+Subject: RE: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -  6/2/2014 at 09:00 AM
+Date: Wed, 21 May 2014 13:12:40 +0700
+Message-ID: <004d01cf74bb$abc0cf40$03426dc0$@elcom.com.vn>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_004E_01CF74F6.581FA740"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGxBI+llefZStZ5tMhKiJUJmFe+XALXkzhCA1WW5TQCa5F9vptCqC+Q
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_004E_01CF74F6.581FA740
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+OK em.
+
+N=E1=BA=BFu T=E1=BA=A5n ho=E1=BA=B7c S=C6=A1n tham gia th=C3=AC =
+b=E1=BA=A3o anh em =C4=91k=C3=BD v=E1=BB=9Bi Ph=C6=B0=C6=A1ng SI =
+=C4=91=E1=BB=83 b=C3=A1o h=E1=BB=8D nh=C3=A9.
+
+=20
+
+From: Nguyen Duc Hinh [mailto:hinhnd@elcom.com.vn]=20
+Sent: Wednesday, May 21, 2014 10:46 AM
+To: 'Dang Ha Vinh'; 'Tran Huu Nguyen'
+Subject: RE: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - =
+6/2/2014 at 09:00 AM
+
+=20
+
+Hi anh & Nguy=C3=AAn,
+
+=20
+
+Nguy=C3=AAn ch=E1=BB=A7 =C4=91=E1=BB=99ng b=E1=BB=91 tr=C3=AD =
+th=E1=BB=9Di gian tham gia cho hi=E1=BB=87u qu=E1=BA=A3. Em share =
+th=C3=B4ng tin n=C3=A0y cho anh em kh=C3=A1c( T=E1=BA=A5n/ S=C6=A1n) =
+n=E1=BA=BFu quan t=C3=A2m th=C3=AC c=C3=B9ng =C4=91=C4=83ng k=C3=BD tham =
+gia lu=C3=B4n nh=C3=A9.
+
+=20
+
+=20
+
+Brgds,
+
+-- Hinh
+
+=20
+
+From: Dang Ha Vinh [mailto:vinhdh@elcom.com.vn]=20
+Sent: Wednesday, May 21, 2014 8:29 AM
+To: 'Tran Huu Nguyen'
+Cc: 'ELC/PM4/Nguyen Duc Hinh'
+Subject: RE: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - =
+6/2/2014 at 09:00 AM
+
+=20
+
+Hinh xem c=C3=A1c c=C3=B4ng vi=E1=BB=87c li=C3=AAn quan c=E1=BB=A7a =
+Nguy=C3=AAn nh=C3=A9? N=E1=BA=BFu b=E1=BB=91 tr=C3=AD =
+=C4=91=C6=B0=E1=BB=A3c th=C3=AC t=E1=BA=A1o =C4=91i=E1=BB=81u =
+ki=E1=BB=87n cho anh em tham gia.
+
+=20
+
+=20
+
+From: Tran Huu Nguyen [mailto:nguyenth@elcom.com.vn]=20
+Sent: Tuesday, May 20, 2014 10:24 PM
+To: ELC/PM4/Dang Ha Vinh
+Cc: ELC/PM4/Nguyen Duc Hinh
+Subject: Fwd: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - =
+6/2/2014 at 09:00 AM
+
+=20
+
+Hi anh,
+
+M=E1=BB=93ng 2/6 em =C4=91=C4=83ng k=C3=BD tham gia Seminar n=C3=A0y =
+=C4=91=C6=B0=E1=BB=A3c kh=C3=B4ng =E1=BA=A1?
+
+NguyenTH.
+
+
+
+-------- Original Message --------=20
+
+
+Subject:=20
+
+REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at =
+09:00 AM
+
+
+Date:=20
+
+Tue, 20 May 2014 08:20:46 -0400
+
+
+From:=20
+
+ckwan@ca.ibm.com
+
+
+Reply-To:=20
+
+linhpln@vn.ibm.com
+
+
+To:=20
+
+nguyenth@elcom.com.vn
+
+=20
+
+Dear Tran Nguyen,
+
+We are pleased to confirm your enrollment at the BP - IBM Big Data =
+Bootcamp beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam=20
+Room:=20
+
+
+Hanoi,    =20
+Vietnam
+
+
+If you need to cancel your registration, please do so by accessing the =
+registration site =
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform =
+<https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=3D=
+kwockwn9h3mcj&lang=3Den> &seminar=3Dkwockwn9h3mcj&lang=3Den for this =
+event and using the cancel option.=20
+
+IBM employees, please remember to bring your IBM badge for =
+identification.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at =
+linhpln@vn.ibm.com if you have any questions.
+
+Thank you for registering for the event.=20
+
+=20
+
+=20
+
+
+------=_NextPart_000_004E_01CF74F6.581FA740
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	color:black;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";
+	color:black;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body bgcolor=3Dwhite =
+lang=3DEN-US link=3Dblue vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>OK em.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>N=E1=BA=BFu T=E1=BA=A5n ho=E1=BA=B7c S=C6=A1n tham gia th=C3=AC =
+b=E1=BA=A3o anh em =C4=91k=C3=BD v=E1=BB=9Bi Ph=C6=B0=C6=A1ng SI =
+=C4=91=E1=BB=83 b=C3=A1o h=E1=BB=8D nh=C3=A9.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'> Nguyen Duc Hinh [mailto:hinhnd@elcom.com.vn] <br><b>Sent:</b> =
+Wednesday, May 21, 2014 10:46 AM<br><b>To:</b> 'Dang Ha Vinh'; 'Tran Huu =
+Nguyen'<br><b>Subject:</b> RE: REGISTRATION CONFIRMATION: BP - IBM Big =
+Data Bootcamp - 6/2/2014 at 09:00 AM<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hi anh &amp; Nguy=C3=AAn,<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Nguy=C3=AAn ch=E1=BB=A7 =C4=91=E1=BB=99ng b=E1=BB=91 tr=C3=AD =
+th=E1=BB=9Di gian tham gia cho hi=E1=BB=87u qu=E1=BA=A3. Em share =
+th=C3=B4ng tin n=C3=A0y cho anh em kh=C3=A1c( T=E1=BA=A5n/ S=C6=A1n) =
+n=E1=BA=BFu quan t=C3=A2m th=C3=AC c=C3=B9ng =C4=91=C4=83ng k=C3=BD tham =
+gia lu=C3=B4n nh=C3=A9.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Brgds,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>-- Hinh<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'> Dang Ha Vinh [<a =
+href=3D"mailto:vinhdh@elcom.com.vn">mailto:vinhdh@elcom.com.vn</a>] =
+<br><b>Sent:</b> Wednesday, May 21, 2014 8:29 AM<br><b>To:</b> 'Tran Huu =
+Nguyen'<br><b>Cc:</b> 'ELC/PM4/Nguyen Duc Hinh'<br><b>Subject:</b> RE: =
+REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at =
+09:00 AM<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hinh xem c=C3=A1c c=C3=B4ng vi=E1=BB=87c li=C3=AAn quan c=E1=BB=A7a =
+Nguy=C3=AAn nh=C3=A9? N=E1=BA=BFu b=E1=BB=91 tr=C3=AD =
+=C4=91=C6=B0=E1=BB=A3c th=C3=AC t=E1=BA=A1o =C4=91i=E1=BB=81u =
+ki=E1=BB=87n cho anh em tham gia.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'> Tran Huu Nguyen [<a =
+href=3D"mailto:nguyenth@elcom.com.vn">mailto:nguyenth@elcom.com.vn</a>] =
+<br><b>Sent:</b> Tuesday, May 20, 2014 10:24 PM<br><b>To:</b> =
+ELC/PM4/Dang Ha Vinh<br><b>Cc:</b> ELC/PM4/Nguyen Duc =
+Hinh<br><b>Subject:</b> Fwd: REGISTRATION CONFIRMATION: BP - IBM Big =
+Data Bootcamp - 6/2/2014 at 09:00 AM<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Hi =
+anh,<br><br>M=E1=BB=93ng 2/6 em =C4=91=C4=83ng k=C3=BD tham gia Seminar =
+n=C3=A0y =C4=91=C6=B0=E1=BB=A3c kh=C3=B4ng =
+=E1=BA=A1?<br><br>NguyenTH.<o:p></o:p></p><div><p =
+class=3DMsoNormal><br><br>-------- Original Message -------- =
+<o:p></o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0><tr><td nowrap valign=3Dtop style=3D'padding:0in 0in 0in =
+0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>Subject: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal>REGISTRATION =
+CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at 09:00 =
+AM<o:p></o:p></p></td></tr><tr><td nowrap valign=3Dtop =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>Date: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal>Tue, 20 May 2014 =
+08:20:46 -0400<o:p></o:p></p></td></tr><tr><td nowrap valign=3Dtop =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>From: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal><a =
+href=3D"mailto:ckwan@ca.ibm.com">ckwan@ca.ibm.com</a><o:p></o:p></p></td>=
+</tr><tr><td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'><p =
+class=3DMsoNormal align=3Dright style=3D'text-align:right'><b>Reply-To: =
+<o:p></o:p></b></p></td><td style=3D'padding:0in 0in 0in 0in'><p =
+class=3DMsoNormal><a =
+href=3D"mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a><o:p></o:p></p><=
+/td></tr><tr><td nowrap valign=3Dtop style=3D'padding:0in 0in 0in =
+0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>To: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal><a =
+href=3D"mailto:nguyenth@elcom.com.vn">nguyenth@elcom.com.vn</a><o:p></o:p=
+></p></td></tr></table><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><p><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>Dear Tran =
+Nguyen,<br><br>We are pleased to confirm your enrollment at the BP - IBM =
+Big Data Bootcamp beginning &nbsp;6/2/2014 at 09:00 AM ending =
+&nbsp;6/4/2014 at 05:00 PM.<br><br>Location: IBM TEC Ha Noi<br>2nd =
+Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam <br>Room: =
+<br><br><br>Hanoi, &nbsp; &nbsp; <br>Vietnam<br><br><br>If you need to =
+cancel your registration, please do so by accessing the registration =
+site <a =
+href=3D"https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&am=
+p;seminar=3Dkwockwn9h3mcj&amp;lang=3Den">https://www.ibm.com/events/swgee=
+r/swgeer06.nsf/signin?openform&amp;seminar=3Dkwockwn9h3mcj&amp;lang=3Den<=
+/a> for this event and using the cancel option. <br><br>IBM employees, =
+please remember to bring your IBM badge for =
+identification.<br><br>Please do not hesitate to contact Pham Le Ngoc =
+Linh at <a href=3D"mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a> if =
+you have any questions.<br><br>Thank you for registering for the =
+event.</span> <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_004E_01CF74F6.581FA740--
+
+
+From - Wed May 21 21:55:37 2014
+X-Account-Key: account1
+X-UIDL: UID6134-1357785201
+X-Mozilla-Status: 0009
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <nguyenth@elcom.com.vn>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 13805 invoked by uid 89); 21 May 2014 06:33:44 -0000
+Received: from unknown (HELO ?192.168.7.168?) (nguyenth@elcom.com.vn@192.168.7.168)
+  by mail1 with ESMTPA; 21 May 2014 06:33:44 -0000
+Message-ID: <537C4936.2000302@elcom.com.vn>
+Date: Wed, 21 May 2014 13:35:34 +0700
+From: Tran Huu Nguyen <nguyenth@elcom.com.vn>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: phuonghd@elcom.com.vn
+CC: ELC/PM4/Dang Ha Vinh <vinhdh@elcom.com.vn>, 
+ ELC/PM4/Nguyen Duc Hinh <hinhnd@elcom.com.vn>,
+ PM4/Ha Quang Tan <tanhq@elcom.com.vn>, 'sonph' <sonph@elcom.com.vn>
+Subject: Fwd: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -  6/2/2014
+ at 09:00 AM
+References: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+In-Reply-To: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+X-Forwarded-Message-Id: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com>
+Content-Type: multipart/alternative;
+ boundary="------------040905080004010304090503"
+
+This is a multi-part message in MIME format.
+--------------040905080004010304090503
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hi anh Phu+o+ng,
+
+Em ?u+o+.c thông báo sa('p to+'i có buo^?i Seminar ve^` BigData,
+theo em bie^'t mình sa('p là Partner cu?a IBM,
+phòng em có 2 ngu+o+`i nu+~a muo^'n tham giá lo+'p ho.c này,
+bên anh có the^? ?a(ng ký giúp em 3 ngu+o+`i cu?a ELCOM tham gia khóa 
+ho.c ?u+o+.c không a.?
+Thanks anh.
+
+ESOFT/NguyenTH.
+
+
+-------- Original Message --------
+Subject: 	REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - 
+6/2/2014 at 09:00 AM
+Date: 	Tue, 20 May 2014 08:20:46 -0400
+From: 	ckwan@ca.ibm.com
+Reply-To: 	linhpln@vn.ibm.com
+To: 	nguyenth@elcom.com.vn
+
+
+
+Dear Tran Nguyen,
+
+We are pleased to confirm your enrollment at the BP - IBM Big Data 
+Bootcamp beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam
+Room:
+
+
+Hanoi,
+Vietnam
+
+
+If you need to cancel your registration, please do so by accessing the 
+registration site 
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=kwockwn9h3mcj&lang=en 
+for this event and using the cancel option.
+
+IBM employees, please remember to bring your IBM badge for identification.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at 
+linhpln@vn.ibm.com if you have any questions.
+
+Thank you for registering for the event.
+
+
+
+
+--------------040905080004010304090503
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    Hi anh Ph&#432;&#417;ng,<br>
+    <br>
+    Em &#273;&#432;&#7907;c th&ocirc;ng b&aacute;o s&#7855;p t&#7899;i c&oacute; bu&#7893;i Seminar v&#7873; BigData,<br>
+    theo em bi&#7871;t m&igrave;nh s&#7855;p l&agrave; Partner c&#7911;a IBM,<br>
+    ph&ograve;ng em c&oacute; 2 ng&#432;&#7901;i n&#7919;a mu&#7889;n tham gi&aacute; l&#7899;p h&#7885;c n&agrave;y,<br>
+    b&ecirc;n anh c&oacute; th&#7875; &#273;&#259;ng k&yacute; gi&uacute;p em 3 ng&#432;&#7901;i c&#7911;a ELCOM tham gia kh&oacute;a h&#7885;c
+    &#273;&#432;&#7907;c kh&ocirc;ng &#7841;?<br>
+    Thanks anh.<br>
+    <br>
+    ESOFT/NguyenTH.
+    <div class="moz-forward-container"><br>
+      <br>
+      -------- Original Message --------
+      <table class="moz-email-headers-table" cellpadding="0"
+        cellspacing="0" border="0">
+        <tbody>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Subject:
+            </th>
+            <td>REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -
+              6/2/2014 at 09:00 AM</td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Date: </th>
+            <td>Tue, 20 May 2014 08:20:46 -0400</td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">From: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:ckwan@ca.ibm.com">ckwan@ca.ibm.com</a></td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">Reply-To:
+            </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a></td>
+          </tr>
+          <tr>
+            <th align="RIGHT" nowrap="nowrap" valign="BASELINE">To: </th>
+            <td><a class="moz-txt-link-abbreviated" href="mailto:nguyenth@elcom.com.vn">nguyenth@elcom.com.vn</a></td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <p><font face="sans-serif" size="2">Dear Tran Nguyen,<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">We are pleased to
+          confirm your enrollment at the BP - IBM Big Data Bootcamp
+          beginning &nbsp;6/2/2014 at 09:00 AM ending &nbsp;6/4/2014 at 05:00 PM.<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Location: IBM TEC Ha Noi<br>
+        </font><font face="sans-serif" size="2">2nd Floor, Pacific
+          Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam <br>
+        </font><font face="sans-serif" size="2">Room: <br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Hanoi, &nbsp; &nbsp; <br>
+        </font><font face="sans-serif" size="2">Vietnam<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">If you need to cancel
+          your registration, please do so by accessing the registration
+          site <a moz-do-not-send="true"
+href="https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&amp;seminar=kwockwn9h3mcj&amp;lang=en">https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&amp;seminar=kwockwn9h3mcj&amp;lang=en</a>
+          for this event and using the cancel option. <br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">IBM employees, please
+          remember to bring your IBM badge for identification.<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Please do not hesitate
+          to contact Pham Le Ngoc Linh at <a class="moz-txt-link-abbreviated" href="mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a> if you have
+          any questions.<br>
+        </font><font face="sans-serif" size="2"><br>
+        </font><font face="sans-serif" size="2">Thank you for
+          registering for the event.</font>
+      </p>
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------040905080004010304090503--
+
+From - Wed May 21 21:55:37 2014
+X-Account-Key: account1
+X-UIDL: UID6135-1357785201
+X-Mozilla-Status: 0019
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <vinhdh@elcom.com.vn>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 14254 invoked by uid 89); 21 May 2014 07:11:19 -0000
+Received: from unknown (HELO VinhDH) (vinhdh@elcom.com.vn@192.168.7.224)
+  by mail1 with ESMTPA; 21 May 2014 07:11:19 -0000
+From: "Dang Ha Vinh" <vinhdh@elcom.com.vn>
+To: "'Tran Huu Nguyen'" <nguyenth@elcom.com.vn>,
+	<phuonghd@elcom.com.vn>
+Cc: "'ELC/PM4/Nguyen Duc Hinh'" <hinhnd@elcom.com.vn>,
+	"'PM4/Ha Quang Tan'" <tanhq@elcom.com.vn>,
+	"'sonph'" <sonph@elcom.com.vn>
+References: <OFFFAA1671.85040582-ON85257CDE.0043CBA9-85257CDE.0043D1B8@ca.ibm.com> <537C4936.2000302@elcom.com.vn>
+In-Reply-To: <537C4936.2000302@elcom.com.vn>
+Subject: RE: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp -  6/2/2014 at 09:00 AM
+Date: Wed, 21 May 2014 14:13:30 +0700
+Message-ID: <007401cf74c4$2b337b80$819a7280$@elcom.com.vn>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0075_01CF74FE.D7925380"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQGxBI+llefZStZ5tMhKiJUJmFe+XAI9ryTrm3WRQ0A=
+Content-Language: en-us
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0075_01CF74FE.D7925380
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Th=C3=B4ng tin th=C3=AAm l=C3=A0 anh n=E1=BA=B1m trong danh s=C3=A1ch =
+h=E1=BB=8D =C4=91=E1=BB=81 ngh=E1=BB=8B confirm c=C3=B3 tham d=E1=BB=B1 =
+ko nh=C6=B0 Nguy=C3=AAn, nh=C6=B0ng a ko d=E1=BB=B1 =C4=91c. V=C3=AC =
+v=E1=BA=ADy n=E1=BA=BFu c=C3=B3 th=C3=AC l=C3=A0 th=C3=AAm 1 v=C3=A0 =
+=C4=91=E1=BB=95i 1 t=C3=AAn anh sang t=C3=AAn kh=C3=A1c.
+
+Btw, Nguy=C3=AAn v=C3=A0 S=C6=A1n =C4=91=C3=A3 t=E1=BB=ABng h=E1=BB=8Dc =
+c=C3=A1i n=C3=A0y, check l=E1=BA=A1i xem n=E1=BB=99i dung n=C3=B3 =
+c=C3=B3 gi=E1=BB=91ng nh=C6=B0 =C4=91=C3=A3 h=E1=BB=8Dc ko nh=C3=A9, ko =
+l=E1=BA=A1i ph=C3=AD c=C3=B4ng.
+
+=20
+
+Brgds,
+
+=20
+
+From: Tran Huu Nguyen [mailto:nguyenth@elcom.com.vn]=20
+Sent: Wednesday, May 21, 2014 1:36 PM
+To: phuonghd@elcom.com.vn
+Cc: ELC/PM4/Dang Ha Vinh; ELC/PM4/Nguyen Duc Hinh; PM4/Ha Quang Tan; =
+'sonph'
+Subject: Fwd: REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - =
+6/2/2014 at 09:00 AM
+
+=20
+
+Hi anh Ph=C6=B0=C6=A1ng,
+
+Em =C4=91=C6=B0=E1=BB=A3c th=C3=B4ng b=C3=A1o s=E1=BA=AFp t=E1=BB=9Bi =
+c=C3=B3 bu=E1=BB=95i Seminar v=E1=BB=81 BigData,
+theo em bi=E1=BA=BFt m=C3=ACnh s=E1=BA=AFp l=C3=A0 Partner c=E1=BB=A7a =
+IBM,
+ph=C3=B2ng em c=C3=B3 2 ng=C6=B0=E1=BB=9Di n=E1=BB=AFa mu=E1=BB=91n tham =
+gi=C3=A1 l=E1=BB=9Bp h=E1=BB=8Dc n=C3=A0y,
+b=C3=AAn anh c=C3=B3 th=E1=BB=83 =C4=91=C4=83ng k=C3=BD gi=C3=BAp em 3 =
+ng=C6=B0=E1=BB=9Di c=E1=BB=A7a ELCOM tham gia kh=C3=B3a h=E1=BB=8Dc =
+=C4=91=C6=B0=E1=BB=A3c kh=C3=B4ng =E1=BA=A1?
+Thanks anh.
+
+ESOFT/NguyenTH.=20
+
+
+
+-------- Original Message --------=20
+
+
+Subject:=20
+
+REGISTRATION CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at =
+09:00 AM
+
+
+Date:=20
+
+Tue, 20 May 2014 08:20:46 -0400
+
+
+From:=20
+
+ckwan@ca.ibm.com
+
+
+Reply-To:=20
+
+linhpln@vn.ibm.com
+
+
+To:=20
+
+nguyenth@elcom.com.vn
+
+=20
+
+Dear Tran Nguyen,
+
+We are pleased to confirm your enrollment at the BP - IBM Big Data =
+Bootcamp beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam=20
+Room:=20
+
+
+Hanoi,    =20
+Vietnam
+
+
+If you need to cancel your registration, please do so by accessing the =
+registration site =
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform =
+<https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=3D=
+kwockwn9h3mcj&lang=3Den> &seminar=3Dkwockwn9h3mcj&lang=3Den for this =
+event and using the cancel option.=20
+
+IBM employees, please remember to bring your IBM badge for =
+identification.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at =
+linhpln@vn.ibm.com if you have any questions.
+
+Thank you for registering for the event.=20
+
+=20
+
+=20
+
+
+------=_NextPart_000_0075_01CF74FE.D7925380
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Dutf-8">
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta name=3DGenerator =
+content=3D"Microsoft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	color:black;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body bgcolor=3Dwhite =
+lang=3DEN-US link=3Dblue vlink=3Dpurple><div class=3DWordSection1><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Th=C3=B4ng tin th=C3=AAm l=C3=A0 anh n=E1=BA=B1m trong danh s=C3=A1ch =
+h=E1=BB=8D =C4=91=E1=BB=81 ngh=E1=BB=8B confirm c=C3=B3 tham d=E1=BB=B1 =
+ko nh=C6=B0 Nguy=C3=AAn, nh=C6=B0ng a ko d=E1=BB=B1 =C4=91c. V=C3=AC =
+v=E1=BA=ADy n=E1=BA=BFu c=C3=B3 th=C3=AC l=C3=A0 th=C3=AAm 1 v=C3=A0 =
+=C4=91=E1=BB=95i 1 t=C3=AAn anh sang t=C3=AAn =
+kh=C3=A1c.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Btw, Nguy=C3=AAn v=C3=A0 S=C6=A1n =C4=91=C3=A3 t=E1=BB=ABng =
+h=E1=BB=8Dc c=C3=A1i n=C3=A0y, check l=E1=BA=A1i xem n=E1=BB=99i dung =
+n=C3=B3 c=C3=B3 gi=E1=BB=91ng nh=C6=B0 =C4=91=C3=A3 h=E1=BB=8Dc ko =
+nh=C3=A9, ko l=E1=BA=A1i ph=C3=AD c=C3=B4ng.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Brgds,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in =
+0in 0in'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif";color:windowt=
+ext'> Tran Huu Nguyen [mailto:nguyenth@elcom.com.vn] <br><b>Sent:</b> =
+Wednesday, May 21, 2014 1:36 PM<br><b>To:</b> =
+phuonghd@elcom.com.vn<br><b>Cc:</b> ELC/PM4/Dang Ha Vinh; ELC/PM4/Nguyen =
+Duc Hinh; PM4/Ha Quang Tan; 'sonph'<br><b>Subject:</b> Fwd: REGISTRATION =
+CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at 09:00 =
+AM<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Hi anh =
+Ph=C6=B0=C6=A1ng,<br><br>Em =C4=91=C6=B0=E1=BB=A3c th=C3=B4ng b=C3=A1o =
+s=E1=BA=AFp t=E1=BB=9Bi c=C3=B3 bu=E1=BB=95i Seminar v=E1=BB=81 =
+BigData,<br>theo em bi=E1=BA=BFt m=C3=ACnh s=E1=BA=AFp l=C3=A0 Partner =
+c=E1=BB=A7a IBM,<br>ph=C3=B2ng em c=C3=B3 2 ng=C6=B0=E1=BB=9Di =
+n=E1=BB=AFa mu=E1=BB=91n tham gi=C3=A1 l=E1=BB=9Bp h=E1=BB=8Dc =
+n=C3=A0y,<br>b=C3=AAn anh c=C3=B3 th=E1=BB=83 =C4=91=C4=83ng k=C3=BD =
+gi=C3=BAp em 3 ng=C6=B0=E1=BB=9Di c=E1=BB=A7a ELCOM tham gia kh=C3=B3a =
+h=E1=BB=8Dc =C4=91=C6=B0=E1=BB=A3c kh=C3=B4ng =E1=BA=A1?<br>Thanks =
+anh.<br><br>ESOFT/NguyenTH. <o:p></o:p></p><div><p =
+class=3DMsoNormal><br><br>-------- Original Message -------- =
+<o:p></o:p></p><table class=3DMsoNormalTable border=3D0 cellspacing=3D0 =
+cellpadding=3D0><tr><td nowrap valign=3Dtop style=3D'padding:0in 0in 0in =
+0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>Subject: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal>REGISTRATION =
+CONFIRMATION: BP - IBM Big Data Bootcamp - 6/2/2014 at 09:00 =
+AM<o:p></o:p></p></td></tr><tr><td nowrap valign=3Dtop =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>Date: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal>Tue, 20 May 2014 =
+08:20:46 -0400<o:p></o:p></p></td></tr><tr><td nowrap valign=3Dtop =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>From: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal><a =
+href=3D"mailto:ckwan@ca.ibm.com">ckwan@ca.ibm.com</a><o:p></o:p></p></td>=
+</tr><tr><td nowrap valign=3Dtop style=3D'padding:0in 0in 0in 0in'><p =
+class=3DMsoNormal align=3Dright style=3D'text-align:right'><b>Reply-To: =
+<o:p></o:p></b></p></td><td style=3D'padding:0in 0in 0in 0in'><p =
+class=3DMsoNormal><a =
+href=3D"mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a><o:p></o:p></p><=
+/td></tr><tr><td nowrap valign=3Dtop style=3D'padding:0in 0in 0in =
+0in'><p class=3DMsoNormal align=3Dright =
+style=3D'text-align:right'><b>To: <o:p></o:p></b></p></td><td =
+style=3D'padding:0in 0in 0in 0in'><p class=3DMsoNormal><a =
+href=3D"mailto:nguyenth@elcom.com.vn">nguyenth@elcom.com.vn</a><o:p></o:p=
+></p></td></tr></table><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><p><span =
+style=3D'font-size:10.0pt;font-family:"Arial","sans-serif"'>Dear Tran =
+Nguyen,<br><br>We are pleased to confirm your enrollment at the BP - IBM =
+Big Data Bootcamp beginning &nbsp;6/2/2014 at 09:00 AM ending =
+&nbsp;6/4/2014 at 05:00 PM.<br><br>Location: IBM TEC Ha Noi<br>2nd =
+Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam <br>Room: =
+<br><br><br>Hanoi, &nbsp; &nbsp; <br>Vietnam<br><br><br>If you need to =
+cancel your registration, please do so by accessing the registration =
+site <a =
+href=3D"https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&am=
+p;seminar=3Dkwockwn9h3mcj&amp;lang=3Den">https://www.ibm.com/events/swgee=
+r/swgeer06.nsf/signin?openform&amp;seminar=3Dkwockwn9h3mcj&amp;lang=3Den<=
+/a> for this event and using the cancel option. <br><br>IBM employees, =
+please remember to bring your IBM badge for =
+identification.<br><br>Please do not hesitate to contact Pham Le Ngoc =
+Linh at <a href=3D"mailto:linhpln@vn.ibm.com">linhpln@vn.ibm.com</a> if =
+you have any questions.<br><br>Thank you for registering for the =
+event.</span> <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0075_01CF74FE.D7925380--
+
+
+From - Thu May 29 09:01:14 2014
+X-Account-Key: account1
+X-UIDL: UID6213-1357785201
+X-Mozilla-Status: 0009
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <linhpln@vn.ibm.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 8259 invoked by uid 89); 28 May 2014 05:28:50 -0000
+Received: by simscan 1.4.0 ppid: 8254, pid: 8255, t: 0.0186s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:19037
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 28 May 2014 05:28:50 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id E86D34513D0
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 05:27:15 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id W-zTDNy8sYci for <nguyenth@elcom.com.vn>;
+	Wed, 28 May 2014 12:27:11 +0700 (ICT)
+Received-SPF: softfail (vn.ibm.com: Sender is not authorized by default to use 'linhpln@vn.ibm.com' in 'mfrom' identity, however domain is not currently prepared for false failures (mechanism '~all' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="linhpln@vn.ibm.com"; helo=e8.ny.us.ibm.com; client-ip=32.97.182.138
+Received: from e8.ny.us.ibm.com (e8.ny.us.ibm.com [32.97.182.138])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 972F1451399
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 12:27:09 +0700 (ICT)
+Received: from /spool/local
+	by e8.ny.us.ibm.com with IBM ESMTP SMTP Gateway: Authorized Use Only! Violators will be prosecuted
+	for <nguyenth@elcom.com.vn> from <linhpln@vn.ibm.com>;
+	Wed, 28 May 2014 01:31:07 -0400
+Received: from d01dlp02.pok.ibm.com (9.56.250.167)
+	by e8.ny.us.ibm.com (192.168.1.108) with IBM ESMTP SMTP Gateway: Authorized Use Only! Violators will be prosecuted;
+	Wed, 28 May 2014 01:31:05 -0400
+Received: from b01cxnp23033.gho.pok.ibm.com (b01cxnp23033.gho.pok.ibm.com [9.57.198.28])
+	by d01dlp02.pok.ibm.com (Postfix) with ESMTP id 9044D6E801C
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 01:30:56 -0400 (EDT)
+Received: from d01av03.pok.ibm.com (d01av03.pok.ibm.com [9.56.224.217])
+	by b01cxnp23033.gho.pok.ibm.com (8.13.8/8.13.8/NCO v10.0) with ESMTP id s4S5V4aG66650294
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 05:31:04 GMT
+Received: from d01av03.pok.ibm.com (localhost [127.0.0.1])
+	by d01av03.pok.ibm.com (8.14.4/8.14.4/NCO v10.0 AVout) with ESMTP id s4S5V4lp005054
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 01:31:04 -0400
+Received: from d25leicore02 (d25leicore02.con.can.ibm.com [9.29.76.172])
+	by d01av03.pok.ibm.com (8.14.4/8.14.4/NCO v10.0 AVin) with ESMTP id s4S5V42u005041
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 01:31:04 -0400
+Received: from b25lcidbw01.con.can.ibm.com (b25lcidbw01.con.can.ibm.com [9.29.77.142])
+	by d25leicore02 (8.13.8/8.13.8) with ESMTP id s4S5V1MT020494
+	for <nguyenth@elcom.com.vn>; Wed, 28 May 2014 01:31:03 -0400
+Date: Wed, 28 May 2014 01:30:59 -0400
+Reply-To: linhpln@vn.ibm.com
+From: linhpln@vn.ibm.com
+To: nguyenth@elcom.com.vn
+Subject: REMINDER: BP - IBM Big Data Bootcamp -  6/2/2014
+Message-ID: <OF6092A1AB.366228EF-ON85257CE6.001E4D47@con.can.ibm.com>
+X-MIMETrack: Serialize by Router on B25LCIDBW01/WWE/D25EXT(Release 8.5.3FP5|July 31, 2013) at
+ 05/28/2014 01:31:03 AM
+MIME-Version: 1.0
+Content-type: multipart/alternative; 
+	Boundary="0__=0ABBF675DF8DCBD78f9e8a93df938690918c0ABBF675DF8DCBD7"
+Content-Disposition: inline
+X-TM-AS-MML: disable
+X-Content-Scanned: Fidelis XPS MAILER
+x-cbid: 14052805-0320-0000-0000-000003641461
+
+--0__=0ABBF675DF8DCBD78f9e8a93df938690918c0ABBF675DF8DCBD7
+Content-type: text/plain; charset=US-ASCII
+Content-transfer-encoding: quoted-printable
+
+
+
+Dear Tran Nguyen,
+
+We are pleased to remind you of your enrollment at the BP - IBM Big Dat=
+a
+Bootcamp beginning  6/2/2014 at 09:00 AM ending  6/4/2014 at 05:00 PM.
+
+Location: IBM TEC Ha Noi
+2nd Floor, Pacific Place, 83B Ly Thuong Kiet, Ha Noi, Viet Nam
+Room:
+
+
+Hanoi
+Vietnam
+
+If you need to cancel your registration, please do so by accessing the
+registration site
+https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=3D=
+kwockwn9h3mcj&lang=3Den
+ for this event and using the cancel option.
+
+IBM employees, please remember to bring your IBM badge for identificati=
+on.
+
+Please do not hesitate to contact Pham Le Ngoc Linh at linhpln@vn.ibm.c=
+om
+if you have any questions.
+
+Thank you for registering for the event.=
+
+--0__=0ABBF675DF8DCBD78f9e8a93df938690918c0ABBF675DF8DCBD7
+Content-type: text/html; charset=US-ASCII
+Content-Disposition: inline
+Content-transfer-encoding: quoted-printable
+
+<html><body>
+<p><font size=3D"2" face=3D"sans-serif">Dear Tran Nguyen,<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">We are pleased to remind yo=
+u of your enrollment at the BP - IBM Big Data Bootcamp beginning &nbsp;=
+6/2/2014 at 09:00 AM ending &nbsp;6/4/2014 at 05:00 PM.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Location: IBM TEC Ha Noi<br=
+>
+</font><font size=3D"2" face=3D"sans-serif">2nd Floor, Pacific Place, 8=
+3B Ly Thuong Kiet, Ha Noi, Viet Nam <br>
+</font><font size=3D"2" face=3D"sans-serif">Room: <br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Hanoi &nbsp;<br>
+</font><font size=3D"2" face=3D"sans-serif">Vietnam<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">If you need to cancel your =
+registration, please do so by accessing the registration site <a href=3D=
+"https://www.ibm.com/events/swgeer/swgeer06.nsf/signin?openform&seminar=
+=3Dkwockwn9h3mcj&lang=3Den">https://www.ibm.com/events/swgeer/swgeer06.=
+nsf/signin?openform&amp;seminar=3Dkwockwn9h3mcj&amp;lang=3Den</a> for t=
+his event and using the cancel option. <br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">IBM employees, please remem=
+ber to bring your IBM badge for identification.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Please do not hesitate to c=
+ontact Pham Le Ngoc Linh at linhpln@vn.ibm.com if you have any question=
+s.<br>
+</font><font size=3D"2" face=3D"sans-serif"><br>
+</font><font size=3D"2" face=3D"sans-serif">Thank you for registering f=
+or the event.</font></body></html>=
+
+--0__=0ABBF675DF8DCBD78f9e8a93df938690918c0ABBF675DF8DCBD7--
+
+

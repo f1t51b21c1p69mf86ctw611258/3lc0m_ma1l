@@ -1,0 +1,699 @@
+From - Wed Apr 16 17:25:27 2014
+X-Account-Key: account1
+X-UIDL: UID5777-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys: $label1                                                                         
+Return-Path: <bounces+5273-024e-nguyenth=elcom.com.vn@slidesharemail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 7853 invoked by uid 89); 16 Apr 2014 06:50:55 -0000
+Received: by simscan 1.4.0 ppid: 7846, pid: 7848, t: 0.0401s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18805
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 16 Apr 2014 06:50:55 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 7932B453484
+	for <nguyenth@elcom.com.vn>; Wed, 16 Apr 2014 06:48:36 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VcZQU60-SH1F for <nguyenth@elcom.com.vn>;
+	Wed, 16 Apr 2014 13:48:33 +0700 (ICT)
+Received-SPF: pass (slidesharemail.com: Sender is authorized to use 'bounces+5273-024e-nguyenth=elcom.com.vn@slidesharemail.com' in 'mfrom' identity (mechanism 'include:sendgrid.net' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="bounces+5273-024e-nguyenth=elcom.com.vn@slidesharemail.com"; helo=o1.slidesharemail.com; client-ip=74.63.202.74
+Received: from o1.slidesharemail.com (o1.slidesharemail.com [74.63.202.74])
+	by mail-gw.elcom.com.vn (Postfix) with SMTP id 5244A45346D
+	for <nguyenth@elcom.com.vn>; Wed, 16 Apr 2014 13:48:31 +0700 (ICT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=slidesharemail.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=XcrTTQDPwNfFBqziBxhcn0mPQ2A=; b=Bjalc+H8bcCUaPX9Ng
+	pUc/R57Hg4UcU8cYFE7plhyTC/si7HZuq+U9g4964sU/skun8qb9JLLjiTZmzzgn
+	12B6LwzDbQykURPhf6qLth0OOpxzdvcV65k1uHiq/5aR6d7n9cuP0mXysfNT6KR4
+	WOXtkE3fBiePThMyyK+Pww8MI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=slidesharemail.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	q=dns; s=smtpapi; b=sMzdxgRKufYIWkNxvTdjlwl1XgApgz3wJBR4yX9CnDTj
+	CDx7lIHz7G5ryrfNx1RB0XbScUgF6RslK9Kr8y5Ds2H0Uj5WksAwav5CG+662EAu
+	PIjakhKUs4omfHmvYbxEBBMvhOSmrHvyJqRCq8QcLmQDE2Wnx/OW/WM71xAjRno=
+Received: by filter-154.sjc1.sendgrid.net with SMTP id filter-154.29891.534E28794
+        Wed, 16 Apr 2014 06:51:37 +0000 (UTC)
+Received: from slidesharemail.com (mta8.slideshare.net [208.43.200.93])
+	by ismtpd-021 (SG) with ESMTP id 145694e1ae2.1a227.12ed1
+	for <nguyenth@elcom.com.vn>; Wed, 16 Apr 2014 06:51:37 +0000 (GMT)
+Received: from localhost.localdomain (unknown [10.17.227.127])
+	by slidesharemail.com (Postfix) with ESMTP id EC5F8380009
+	for <nguyenth@elcom.com.vn>; Wed, 16 Apr 2014 01:51:36 -0500 (CDT)
+Date: Wed, 16 Apr 2014 01:51:36 -0500
+From: SlideShare <donotreply@slidesharemail.com>
+To: nguyenth@elcom.com.vn
+Message-ID: <534e2878e3e5b_205b15ce302f01ac10704580@slidesharemail.com>
+Subject: Tran Huu sent you a presentation
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: 7UtPqN1BOpcOMj6Xx6jLygAAiuDBL794j7908ndnYBKqR/4N2vNob4DjD0WRr6wSyRYgy26NKeKxu1qJ6ZeDDV6+3vbYvW/Rw4uAl5vAOIkoSkOs+Rl1e5N7E/MWi+WdqseyL132Y9HEOsCw8Lgimqpqa7tXoOQBW74/Tz8Qp0w=
+X-SG-ID: E6HSO9ALfmDkz3+x6fFmRHFs5k42pNPoduh1VoXzcJMDWZp0Inwd5ulAIJg6Q3h0z2KQyAQwLhN4vW9a2pubG8ittRHWaZO8uS0av94f/2CdPGJYbuVOQHyTaCsl3GJZJ0R964JsJFfYFLjac44UC9+vJy6mbwdCrJPnGHpUtbcmw7l6hMkqhbMr2XR9aMFJ
+
+<!-- Inliner Build Version 4380b7741bb759d6cb997545f3add21ad48f010b -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+" />
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+    <title>A  was shared with you</title>
+  </head>
+  <body style=3D"width: 100% !important; min-width: 100%; -webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; color: #333; font-family: 'Helve=
+tica Neue',Helvetica,Arial,sans-serif; font-weight: 400; text-align: left; =
+line-height: 19px; font-size: 14px; background: #dfdfdf url(https://s3.amaz=
+onaws.com/slideshare-email-assets/framework/email-body-bg.png); margin: 0; =
+padding: 0;" bgcolor=3D"#dfdfdf"><style type=3D"text/css">
+table.button:active td {
+background: #2795b6 !important;
+}
+table.button:hover td {
+background: #2795b6 !important;
+}
+table.button:visited td {
+background: #2795b6 !important;
+}
+table.large-button:hover td {
+background: #2795b6 !important;
+}
+table.medium-button:hover td {
+background: #2795b6 !important;
+}
+table.small-button:hover td {
+background: #2795b6 !important;
+}
+table.tiny-button:hover td {
+background: #2795b6 !important;
+}
+table.secondary:hover td {
+background: #d0d0d0 !important; color: #555;
+}
+table.secondary td a:visited {
+color: #555 !important;
+}
+table.secondary:active td a {
+color: #555 !important;
+}
+table.secondary:hover td a {
+color: #555 !important;
+}
+table.success:hover td {
+background: #457a1a !important;
+}
+table.alert:hover td {
+background: #970b0e !important;
+}
+.footer a:visited {
+color: #979797 !important;
+}
+@media only screen and (max-width:600px) {
+  table[class=3Dbody] img {
+    width: auto !important; height: auto !important;
+  }
+  table[class=3Dbody] center {
+    min-width: 0 !important;
+  }
+  table[class=3Dbody] .container {
+    width: 95% !important;
+  }
+  table[class=3Dbody] .row {
+    width: 100% !important; display: block !important;
+  }
+  table[class=3Dbody] .wrapper {
+    display: block !important; padding-right: 0 !important;
+  }
+  table[class=3Dbody] .column {
+    table-layout: fixed !important; float: none !important; width: 100% !im=
+portant; padding-right: 0 !important; padding-left: 0 !important; display: =
+block !important;
+  }
+  table[class=3Dbody] .columns {
+    table-layout: fixed !important; float: none !important; width: 100% !im=
+portant; padding-right: 0 !important; padding-left: 0 !important; display: =
+block !important;
+  }
+  table[class=3Dbody] .wrapper.first .column {
+    display: table !important;
+  }
+  table[class=3Dbody] .wrapper.first .columns {
+    display: table !important;
+  }
+  table[class=3Dbody] table.column td {
+    width: 100% !important;
+  }
+  table[class=3Dbody] table.columns td {
+    width: 100% !important;
+  }
+  table[class=3Dbody] .column td.one {
+    width: 8.333333% !important;
+  }
+  table[class=3Dbody] .columns td.one {
+    width: 8.333333% !important;
+  }
+  table[class=3Dbody] .column td.two {
+    width: 16.666666% !important;
+  }
+  table[class=3Dbody] .columns td.two {
+    width: 16.666666% !important;
+  }
+  table[class=3Dbody] .column td.three {
+    width: 25% !important;
+  }
+  table[class=3Dbody] .columns td.three {
+    width: 25% !important;
+  }
+  table[class=3Dbody] .column td.four {
+    width: 33.333333% !important;
+  }
+  table[class=3Dbody] .columns td.four {
+    width: 33.333333% !important;
+  }
+  table[class=3Dbody] .column td.five {
+    width: 41.666666% !important;
+  }
+  table[class=3Dbody] .columns td.five {
+    width: 41.666666% !important;
+  }
+  table[class=3Dbody] .column td.six {
+    width: 50% !important;
+  }
+  table[class=3Dbody] .columns td.six {
+    width: 50% !important;
+  }
+  table[class=3Dbody] .column td.seven {
+    width: 58.333333% !important;
+  }
+  table[class=3Dbody] .columns td.seven {
+    width: 58.333333% !important;
+  }
+  table[class=3Dbody] .column td.eight {
+    width: 66.666666% !important;
+  }
+  table[class=3Dbody] .columns td.eight {
+    width: 66.666666% !important;
+  }
+  table[class=3Dbody] .column td.nine {
+    width: 75% !important;
+  }
+  table[class=3Dbody] .columns td.nine {
+    width: 75% !important;
+  }
+  table[class=3Dbody] .column td.ten {
+    width: 83.333333% !important;
+  }
+  table[class=3Dbody] .columns td.ten {
+    width: 83.333333% !important;
+  }
+  table[class=3Dbody] .column td.eleven {
+    width: 91.666666% !important;
+  }
+  table[class=3Dbody] .columns td.eleven {
+    width: 91.666666% !important;
+  }
+  table[class=3Dbody] .column td.twelve {
+    width: 100% !important;
+  }
+  table[class=3Dbody] .columns td.twelve {
+    width: 100% !important;
+  }
+  table[class=3Dbody] td.offset-by-eight {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-eleven {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-five {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-four {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-nine {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-one {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-seven {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-six {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-ten {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-three {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] td.offset-by-two {
+    padding-left: 0 !important;
+  }
+  table[class=3Dbody] table.columns td.expander {
+    width: 1px !important;
+  }
+  table[class=3Dbody] .right-text-pad {
+    padding-left: 10px !important;
+  }
+  table[class=3Dbody] .text-pad-right {
+    padding-left: 10px !important;
+  }
+  table[class=3Dbody] .left-text-pad {
+    padding-right: 10px !important;
+  }
+  table[class=3Dbody] .text-pad-left {
+    padding-right: 10px !important;
+  }
+  table[class=3Dbody] .hide-for-small {
+    display: none !important;
+  }
+  table[class=3Dbody] .show-for-desktop {
+    display: none !important;
+  }
+  table[class=3Dbody] .hide-for-desktop {
+    display: inherit !important;
+  }
+  table[class=3Dbody] .show-for-small {
+    display: inherit !important;
+  }
+  table.body {
+    min-width: 100% !important;
+  }
+  table[class=3Dbody] .button {
+    overflow: visible;
+  }
+  table[class=3Dbody] img {
+    width: 100% !important;
+  }
+  table[class=3Dbody] .logo img {
+    width: 130px !important;
+  }
+  table[class=3Dbody] .no-stretch img {
+    width: auto !important;
+  }
+  table[class=3Dbody] table.columns td.user-action {
+    width: auto !important;
+  }
+  table[class=3Dbody] table.hero-user td.text-pad {
+    width: 100% !important;
+  }
+  .message-box td.wrapper table.columns .reply {
+    text-align: center;
+  }
+  .user-card .card-medium td.three.sub-columns {
+    width: 89px !important; padding-right: 0 !important;
+  }
+  table.body table.col-content-three td.image img {
+    width: 100% !important;
+  }
+  tr.message-box td.wrapper .two {
+    background: none !important;
+  }
+  table[class=3Dbody] table.culture-code td.wrapper table.columns td.image {
+    padding-right: 0; padding-bottom: 0;
+  }
+}
+</style>
+  <table class=3D"body" style=3D"border-spacing: 0; border-collapse: collap=
+se; vertical-align: top; text-align: left; height: 100%; width: 100%; color=
+: #333; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-weig=
+ht: 400; line-height: 19px; font-size: 14px; min-width: 640px; background: =
+#dfdfdf url(https://s3.amazonaws.com/slideshare-email-assets/framework/emai=
+l-body-bg.png); margin: 0; padding: 0;" bgcolor=3D"#dfdfdf" background=3D"u=
+rl(https://s3.amazonaws.com/slideshare-email-assets/framework/email-body-bg=
+.png)"><tr style=3D"vertical-align: top; text-align: left; padding: 0;" ali=
+gn=3D"left"><td class=3D"center top-header" align=3D"center" background=3D"=
+https://s3.amazonaws.com/slideshare-email-assets/header-bg.jpg" bgcolor=3D"=
+#141E23" valign=3D"top" style=3D"word-break: break-word; -webkit-hyphens: a=
+uto; -moz-hyphens: auto; hyphens: auto; border-collapse: collapse !importan=
+t; vertical-align: top; text-align: center; color: #333; font-family: 'Helv=
+etica Neue',Helvetica,Arial,sans-serif; font-weight: 400; line-height: 19px=
+; font-size: 14px; width: 100%; background: #141E23 url(https://s3.amazonaw=
+s.com/slideshare-email-assets/header-bg.jpg); margin: 0; padding: 0;">
+      <!--[if gte mso 9]>
+      <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"true" strok=
+e=3D"false" style=3D"mso-width-percent:1000;">
+        <v:fill type=3D"tile" src=3D"http://email.slidesharecdn.com/framewo=
+rk/header-bg.jpg" color=3D"#141E23" />
+        <v:textbox style=3D"mso-fit-shape-to-text:true" inset=3D"0,0,0,0">
+      <![endif]-->
+        <div>
+          <center style=3D"width: 100%; min-width: 580px;">
+            <table class=3D"container" style=3D"border-spacing: 0; border-c=
+ollapse: collapse; vertical-align: top; text-align: inherit; width: 580px; =
+margin: 0 auto; padding: 0;"><tr style=3D"vertical-align: top; text-align: =
+left; padding: 0;" align=3D"left"><td style=3D"word-break: break-word; -web=
+kit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: coll=
+apse !important; vertical-align: top; text-align: left; color: #333; font-f=
+amily: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: 400; line-=
+height: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valig=
+n=3D"top">
+                  <table class=3D"row" style=3D"border-spacing: 0; border-c=
+ollapse: collapse; vertical-align: top; text-align: left; width: 100%; posi=
+tion: relative; display: block; padding: 0;"><tr style=3D"vertical-align: t=
+op; text-align: left; padding: 0;" align=3D"left"><td class=3D"wrapper last=
+" style=3D"word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: aut=
+o; hyphens: auto; border-collapse: collapse !important; vertical-align: top=
+; text-align: left; position: relative; color: #333; font-family: 'Helvetic=
+a Neue',Helvetica,Arial,sans-serif; font-weight: 400; line-height: 19px; fo=
+nt-size: 14px; margin: 0; padding: 10px 0 0;" align=3D"left" valign=3D"top">
+                        <table class=3D"twelve columns" style=3D"border-spa=
+cing: 0; border-collapse: collapse; vertical-align: top; text-align: left; =
+width: 580px; margin: 0 auto; padding: 0;"><tr style=3D"vertical-align: top=
+; text-align: left; padding: 0;" align=3D"left"><td class=3D"logo" style=3D=
+"word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens=
+: auto; border-collapse: collapse !important; vertical-align: top; text-ali=
+gn: center; color: #333; font-family: 'Helvetica Neue',Helvetica,Arial,sans=
+-serif; font-weight: 400; line-height: 19px; font-size: 14px; width: 580px;=
+ margin: 0; padding: 12px 0 0;" align=3D"center" valign=3D"top">
+                              <img src=3D"http://email.slidesharecdn.com/sl=
+ideshare-logo-145x50.png" alt=3D"SlideShare" style=3D"outline: 0; text-deco=
+ration: none; -ms-interpolation-mode: bicubic; width: 130px !important; max=
+-width: 100%; float: none; clear: both; display: inline;" align=3D"none" />=
+</td>
+                            <td class=3D"expander" style=3D"word-break: bre=
+ak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-c=
+ollapse: collapse !important; vertical-align: top; text-align: left; visibi=
+lity: hidden; width: 0; color: #333; font-family: 'Helvetica Neue',Helvetic=
+a,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; m=
+argin: 0; padding: 0;" align=3D"left" valign=3D"top"></td>
+                          </tr><tr style=3D"vertical-align: top; text-align=
+: left; padding: 0;" align=3D"left">
+                            <td class=3D"expander" style=3D"word-break: bre=
+ak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-c=
+ollapse: collapse !important; vertical-align: top; text-align: left; visibi=
+lity: hidden; width: 0; color: #333; font-family: 'Helvetica Neue',Helvetic=
+a,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; m=
+argin: 0; padding: 0;" align=3D"left" valign=3D"top"></td>
+                          </tr><tr style=3D"vertical-align: top; text-align=
+: left; padding: 0;" align=3D"left"><td class=3D"heading" style=3D"word-bre=
+ak: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; b=
+order-collapse: collapse !important; vertical-align: top; text-align: left;=
+ color: #333; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; fon=
+t-weight: 400; line-height: 19px; font-size: 14px; margin: 0; padding: 10px=
+ 0 0;" align=3D"left" valign=3D"top">
+                              <h1 style=3D"color: #fff; font-family: 'Helve=
+tica Neue',Helvetica,Arial,sans-serif; font-weight: 400; text-align: center=
+; line-height: 40px; word-break: normal; font-size: 28px; margin: 0; paddin=
+g: 0;" align=3D"center">A presentation was shared with you</h1>
+                            </td>
+                            <td class=3D"expander" style=3D"word-break: bre=
+ak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-c=
+ollapse: collapse !important; vertical-align: top; text-align: left; visibi=
+lity: hidden; width: 0; color: #333; font-family: 'Helvetica Neue',Helvetic=
+a,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; m=
+argin: 0; padding: 0;" align=3D"left" valign=3D"top"></td>
+                          </tr><tr style=3D"vertical-align: top; text-align=
+: left; padding: 0;" align=3D"left"><td class=3D"subheading" style=3D"word-=
+break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto=
+; border-collapse: collapse !important; vertical-align: top; text-align: ce=
+nter; color: #bbb; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif=
+; font-weight: 200; line-height: 20px; font-size: 14px; width: 580px; margi=
+n: 0; padding: 0 0 10px;" align=3D"center" valign=3D"top">Tran Huu sent thi=
+s SlideShare presentation to you.
+                            </td>
+                            <td class=3D"expander" style=3D"word-break: bre=
+ak-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-c=
+ollapse: collapse !important; vertical-align: top; text-align: left; visibi=
+lity: hidden; width: 0; color: #333; font-family: 'Helvetica Neue',Helvetic=
+a,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; m=
+argin: 0; padding: 0;" align=3D"left" valign=3D"top"></td>
+                          </tr><tr style=3D"vertical-align: top; text-align=
+: left; padding: 0;" align=3D"left"><td class=3D"wrapper last" style=3D"wor=
+d-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: au=
+to; border-collapse: collapse !important; vertical-align: top; text-align: =
+left; position: relative; color: #333; font-family: 'Helvetica Neue',Helvet=
+ica,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px;=
+ margin: 0; padding: 0 0 10px;" align=3D"left" valign=3D"top">
+                              <center style=3D"width: 100%; min-width: 580p=
+x;">
+                                <div style=3D"font-size: 10px; line-height:=
+ 10px; height: 10px;">=C2=A0</div>
+                                <div class=3D"main-cta">
+                                    <a href=3D"http://slidesharemail.com/wf=
+/click?upn=3DJEzcWfMNhU88p3q140oRkYS9F86JbEM6EJmJwj5jCEabcsQhoGdUfQzj-2BJXU=
+N-2Fm88uVr5WeEAW0s4dGN-2Fv-2BkpIHjRTEBgClflmn6FdE8REdA1sIbeiRMHHdoyim6P1B5x=
+TVMYooFOITJSrq3LGZn0A-2FqM2wOjFGty9K3AsqEkT7NP3-2F7tNKfkDK0W495Pan4KSEJevF-=
+2Bva-2FnU-2Bd9OOou-2BQ-3D-3D_MxX0S3njLG4NDV-2Bo6inWmp8eos-2BMSsaRtbnpJJnR2y=
+APAZYLqgMA89xms3Zmx1oFVrr7WwIVAjurogmzBN59Lc2LmTvBrbsfrNNYy-2FcNopkm-2BZLTz=
+MlnUmt0AqpwcpwpQWTkswRSpiDGHhIMdHsrh-2Fks6bIdA2sTGzDKAdFUEdN4PY-2FApsY8sjA0=
+RaJ0dS3EwXndU-2FISMt4nNWvQvYr7ydQemS99AabXuF20Bjj4oMJybxIrYlrJm6fMUSLjk5oKM=
+3H0rfAfwUS-2BchD6AgrYyqwVVXPuGVHCJEbXqfmR8-2BmJtHj5XSHluVVrMKB1k-2BsidOLpx7=
+zRRmAh3-2BIar0-2B7UG5qPOLoRmSVJKz15rEAaQ4vRu-2BWwXrF1KXqwD0cRh3i" style=3D"=
+border-radius: 4px; color: #ffffff; display: inline-block; font-family: san=
+s-serif; font-size: 18px; font-weight: bold; line-height: 44px; text-align:=
+ center; text-decoration: none; width: 160px; -webkit-text-size-adjust: non=
+e; mso-hide: all; background: #FA970E; border: 1px solid #df8b41;">View now=
+</a>
+                                </div>
+                              </center>
+                            </td>
+                          </tr></table><div style=3D"font-size: 20px; line-=
+height: 20px; height: 20px;">=C2=A0</div>
+                      </td>
+                    </tr></table></td>
+              </tr></table></center>
+        </div>
+        <!--[if gte mso 9]>
+          </v:textbox>
+        </v:rect>
+        <![endif]-->
+      </td>
+    </tr><!-- top-header with enclosing <tr> ends --><!-- Header row starts=
+ here --><tr style=3D"vertical-align: top; text-align: left; padding: 0;" a=
+lign=3D"left"><td class=3D"center content" align=3D"center" valign=3D"cente=
+r" style=3D"word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: au=
+to; hyphens: auto; border-collapse: collapse !important; vertical-align: to=
+p; text-align: center; color: #333; font-family: 'Helvetica Neue',Helvetica=
+,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; ba=
+ckground: repeat; margin: 0; padding: 0;">
+        <center style=3D"width: 100%; min-width: 580px;">
+          <table class=3D"container" style=3D"border-spacing: 0; border-col=
+lapse: collapse; vertical-align: top; text-align: inherit; width: 580px; ma=
+rgin: 0 auto; padding: 0;"><tr style=3D"vertical-align: top; text-align: le=
+ft; padding: 0;" align=3D"left"><td style=3D"word-break: break-word; -webki=
+t-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collapse: collap=
+se !important; vertical-align: top; text-align: left; color: #333; font-fam=
+ily: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: 400; line-he=
+ight: 19px; font-size: 14px; margin: 0; padding: 0;" align=3D"left" valign=
+=3D"top">
+                <div style=3D"font-size: 20px; line-height: 20px; height: 2=
+0px;">=C2=A0</div>
+                <!-- Quote card starts -->
+                <table class=3D"row" style=3D"border-spacing: 0; border-col=
+lapse: collapse; vertical-align: top; text-align: left; width: 100%; positi=
+on: relative; display: block; padding: 0;"><tr style=3D"vertical-align: top=
+; text-align: left; padding: 0;" align=3D"left"><td class=3D"wrapper last" =
+style=3D"word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto;=
+ hyphens: auto; border-collapse: collapse !important; vertical-align: top; =
+text-align: left; position: relative; color: #333; font-family: 'Helvetica =
+Neue',Helvetica,Arial,sans-serif; font-weight: 400; line-height: 19px; font=
+-size: 14px; margin: 0; padding: 10px 0 0;" align=3D"left" valign=3D"top">
+                      <table class=3D"twelve columns comment" style=3D"bord=
+er-spacing: 0; border-collapse: collapse; vertical-align: top; text-align: =
+left; width: 580px; background: #fff; margin: 0 auto; padding: 0;" bgcolor=
+=3D"#fff"><tr style=3D"vertical-align: top; text-align: left; padding: 0;" =
+align=3D"left"><td style=3D"word-break: break-word; -webkit-hyphens: auto; =
+-moz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; ve=
+rtical-align: top; text-align: left; color: #333; font-family: 'Helvetica N=
+eue',Helvetica,Arial,sans-serif; font-weight: 400; line-height: 19px; font-=
+size: 14px; margin: 0; padding: 14px 20px 20px;" align=3D"left" valign=3D"t=
+op">
+                            <p class=3D"tweet" style=3D"color: #555 !import=
+ant; font-family: 'Noticia Text',serif,times; font-weight: 400; text-align:=
+ center; line-height: 24px; font-size: 14px; margin: 0; padding: 0;" align=
+=3D"center">&ldquo;Compare Intergration System&rdquo;</p>
+                          </td>
+                        </tr></table></td>
+                  </tr></table><!-- Quote card ends --><!-- Content small s=
+tarts  --><div style=3D"font-size: 20px; line-height: 20px; height: 20px;">=
+=C2=A0</div>
+                <table class=3D"row content-card-small" style=3D"border-spa=
+cing: 0; border-collapse: collapse; vertical-align: top; text-align: left; =
+width: 100%; position: relative; display: block; background: #fff; padding:=
+ 0;" bgcolor=3D"#fff"><tr style=3D"vertical-align: top; text-align: left; p=
+adding: 0;" align=3D"left"><td class=3D"wrapper image" style=3D"word-break:=
+ break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; bord=
+er-collapse: collapse !important; vertical-align: top; text-align: left; po=
+sition: relative; color: #333; font-family: 'Helvetica Neue',Helvetica,Aria=
+l,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; margin:=
+ 0; padding: 0;" align=3D"left" valign=3D"top">
+                      <table class=3D"five columns content-card-small-image=
+" style=3D"border-spacing: 0; border-collapse: collapse; vertical-align: to=
+p; text-align: left; width: 230px; margin: 0 auto; padding: 0;"><tr style=
+=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"left"><td =
+style=3D"word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto;=
+ hyphens: auto; border-collapse: collapse !important; vertical-align: top; =
+text-align: left; color: #333; font-family: 'Helvetica Neue',Helvetica,Aria=
+l,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; width: =
+100%; margin: 0; padding: 0;" align=3D"left" valign=3D"top">
+                            <a href=3D"http://slidesharemail.com/wf/click?u=
+pn=3DJEzcWfMNhU88p3q140oRkYS9F86JbEM6EJmJwj5jCEabcsQhoGdUfQzj-2BJXUN-2Fm88u=
+Vr5WeEAW0s4dGN-2Fv-2BkpIHjRTEBgClflmn6FdE8REdA1sIbeiRMHHdoyim6P1B5xTVMYooFO=
+ITJSrq3LGZn0A-2FqM2wOjFGty9K3AsqEkT7NP3-2F7tNKfkDK0W495Pan4KSEJevF-2Bva-2Fn=
+U-2Bd9OOou-2BQ-3D-3D_MxX0S3njLG4NDV-2Bo6inWmp8eos-2BMSsaRtbnpJJnR2yAPAZYLqg=
+MA89xms3Zmx1oFVrr7WwIVAjurogmzBN59Lc2LmTvBrbsfrNNYy-2FcNopkm-2BZLTzMlnUmt0A=
+qpwcpwpQWTkswRSpiDGHhIMdHsrh-2Fks6bIdA2sTGzDKAdFUEdN4PY-2FApsY8sjA0RaJ0dS3E=
+JFZkGjEE9GQoSWzzFrLbvg0MKeaZsZDywLaIYDX-2F-2Bi-2BQKvk-2B7h2R-2FbS0l-2BSazyp=
+wi5Emkd1ZqmrBgaPM2DUrMh3MjgJR5R5zDmlJw-2BSfhRZISpKOZfy2TG-2B0cMyHygY0kBVujF=
+VXLgwXvggpD1n90ncnHNVvdO2BOTvqN0Hu6WZvDOVVrME8MCtQoKMqJyvp" style=3D"color:=
+ #2ba6cb; text-decoration: none;">
+                              <img width=3D"230" height=3D"173" src=3D"http=
+s://cdn.slidesharecdn.com/ss_thumbnails/201309javaoneintegrationframeworksk=
+aiwaehner-130925144617-phpapp01-thumbnail-4.jpg?cb=3D1380138583" alt=3D"pre=
+sentation" style=3D"outline: 0; text-decoration: none; -ms-interpolation-mo=
+de: bicubic; width: auto; max-width: 100%; float: left; clear: both; displa=
+y: block; border: none;" align=3D"left" />
+                            </a>
+                          </td>
+                          <td class=3D"expander" style=3D"word-break: break=
+-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-col=
+lapse: collapse !important; vertical-align: top; text-align: left; visibili=
+ty: hidden; width: 100%; color: #333; font-family: 'Helvetica Neue',Helveti=
+ca,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; =
+margin: 0; padding: 0;" align=3D"left" valign=3D"top"></td>
+                        </tr></table></td>
+                    <td class=3D"wrapper last" style=3D"word-break: break-w=
+ord; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-colla=
+pse: collapse !important; vertical-align: top; text-align: left; position: =
+relative; color: #333; font-family: 'Helvetica Neue',Helvetica,Arial,sans-s=
+erif; font-weight: 400; line-height: 19px; font-size: 14px; margin: 0 0 10p=
+x; padding: 0;" align=3D"left" valign=3D"top">
+                      <table class=3D"seven columns content-card-meta" styl=
+e=3D"border-spacing: 0; border-collapse: collapse; vertical-align: top; tex=
+t-align: left; width: 330px; margin: 0 auto; padding: 0;"><tr style=3D"vert=
+ical-align: top; text-align: left; padding: 0;" align=3D"left"><td class=3D=
+"text-pad" style=3D"word-break: break-word; -webkit-hyphens: auto; -moz-hyp=
+hens: auto; hyphens: auto; border-collapse: collapse !important; vertical-a=
+lign: top; text-align: left; color: #333; font-family: 'Helvetica Neue',Hel=
+vetica,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14=
+px; margin: 0; padding: 15px 0 0 20px;" align=3D"left" valign=3D"top">
+                            <table style=3D"border-spacing: 0; border-colla=
+pse: collapse; vertical-align: top; text-align: left; padding: 0;"><tr styl=
+e=3D"vertical-align: top; text-align: left; padding: 0;" align=3D"left"><td=
+ class=3D"title" style=3D"word-break: break-word; -webkit-hyphens: auto; -m=
+oz-hyphens: auto; hyphens: auto; border-collapse: collapse !important; vert=
+ical-align: top; text-align: left; color: #333; font-family: 'Helvetica Neu=
+e',Helvetica,Arial,sans-serif; font-weight: 700; line-height: 1.5; font-siz=
+e: 13px; margin: 0; padding: 0;" align=3D"left" valign=3D"top">
+                                  <a href=3D"http://slidesharemail.com/wf/c=
+lick?upn=3DJEzcWfMNhU88p3q140oRkYS9F86JbEM6EJmJwj5jCEabcsQhoGdUfQzj-2BJXUN-=
+2Fm88uVr5WeEAW0s4dGN-2Fv-2BkpIHjRTEBgClflmn6FdE8REdA1sIbeiRMHHdoyim6P1B5xTV=
+MYooFOITJSrq3LGZn0A-2FqM2wOjFGty9K3AsqEkT7NP3-2F7tNKfkDK0W495Pan4KSEJevF-2B=
+va-2FnU-2Bd9OOou-2BQ-3D-3D_MxX0S3njLG4NDV-2Bo6inWmp8eos-2BMSsaRtbnpJJnR2yAP=
+AZYLqgMA89xms3Zmx1oFVrr7WwIVAjurogmzBN59Lc2LmTvBrbsfrNNYy-2FcNopkm-2BZLTzMl=
+nUmt0AqpwcpwpQWTkswRSpiDGHhIMdHsrh-2Fks6bIdA2sTGzDKAdFUEdN4PY-2FApsY8sjA0Ra=
+J0dS3EMa88RGaN7GWLvY8C6wJdJPT8EcFbfXJij-2B-2Fr7ASM2CK2TmODL2u0S2njIKfru0ARl=
+QAt-2B99XLA4DSL-2BUjUtqzzTkDI0d4hlifUI20kOLBrdgKBe5riESfQNs6A8Ks2M3nMvs1wRY=
+gkdjDyoDo-2BFPS4EneuqvGamNj2l6BFswmXkhSX1V2pbxXDMVOUjKe6nj" style=3D"color:=
+ #333; text-decoration: none; font-weight: 700;">How to choose the right In=
+tegration Framework - Apache Camel (JBoss, Talend), Spring Integration (Piv=
+otal) or Mule ESB? - JavaOne 2013</a>
+                                </td>
+                              </tr><tr style=3D"vertical-align: top; text-a=
+lign: left; padding: 0;" align=3D"left"><td class=3D"subtitle" style=3D"wor=
+d-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: au=
+to; border-collapse: collapse !important; vertical-align: top; text-align: =
+left; color: #555; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif=
+; font-weight: 600; line-height: 20px; font-size: 12px; margin: 0; padding:=
+ 0 0 5px;" align=3D"left" valign=3D"top">
+                                  By&nbsp;KaiWaehner
+                                </td>
+                              </tr><tr style=3D"vertical-align: top; text-a=
+lign: left; padding: 0;" align=3D"left"><td class=3D"stats" style=3D"word-b=
+reak: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto;=
+ border-collapse: collapse !important; vertical-align: top; text-align: lef=
+t; color: #555; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; f=
+ont-weight: 400; line-height: 19px; font-size: 12px; margin: 0; padding: 0 =
+0 6px;" align=3D"left" valign=3D"top">
+                                  Data exchanges between companies increas.=
+..
+                                </td>
+                              </tr><tr style=3D"vertical-align: top; text-a=
+lign: left; padding: 0;" align=3D"left"><td class=3D"stats small" style=3D"=
+word-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens:=
+ auto; border-collapse: collapse !important; vertical-align: top; text-alig=
+n: left; color: #555; font-family: 'Helvetica Neue',Helvetica,Arial,sans-se=
+rif; font-weight: 400; line-height: 19px; font-size: 12px; margin: 0; paddi=
+ng: 0 0 15px;" align=3D"left" valign=3D"top">
+                                  <span style=3D"white-space:nowrap;">4137 =
+views,</span> <span style=3D"white-space:nowrap;">0 downloads,</span> <span=
+ style=3D"white-space:nowrap;">7 favorites</span>
+                                </td>
+                              </tr><tr style=3D"vertical-align: top; text-a=
+lign: left; padding: 0;" align=3D"left"><td class=3D"wrapper" style=3D"word=
+-break: break-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: aut=
+o; border-collapse: collapse !important; vertical-align: top; text-align: l=
+eft; position: relative; color: #333; font-family: 'Helvetica Neue',Helveti=
+ca,Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; =
+margin: 0; padding: 0;" align=3D"left" valign=3D"top">
+                                  <table class=3D"two sub-columns" style=3D=
+"border-spacing: 0; border-collapse: collapse; vertical-align: top; text-al=
+ign: left; width: 80px; padding: 0;"><tr style=3D"vertical-align: top; text=
+-align: left; padding: 0;" align=3D"left"><td style=3D"word-break: break-wo=
+rd; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-collap=
+se: collapse !important; vertical-align: top; text-align: left; color: #333=
+; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-weight: 40=
+0; line-height: 19px; font-size: 14px; margin: 0; padding: 0 0 10px;" align=
+=3D"left" valign=3D"top">
+                                         <!--[if mso]>
+                                          <v:roundrect xmlns:v=3D"urn:schem=
+as-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" hre=
+f=3D"" style=3D"height:24px;v-text-anchor:middle;width:60px;" arcsize=3D"8%=
+" strokecolor=3D"#2667A5" fillcolor=3D"#367CBE">
+                                            <w:anchorlock/>
+                                            <center style=3D"color:#ffffff;=
+font-family:sans-serif;font-size:12px;font-weight:normal;">View</center>
+                                          </v:roundrect>
+                                        <![endif]-->
+                                        <a href=3D"http://slidesharemail.co=
+m/wf/click?upn=3DJEzcWfMNhU88p3q140oRkYS9F86JbEM6EJmJwj5jCEabcsQhoGdUfQzj-2=
+BJXUN-2Fm88uVr5WeEAW0s4dGN-2Fv-2BkpIHjRTEBgClflmn6FdE8REdA1sIbeiRMHHdoyim6P=
+1B5xTVMYooFOITJSrq3LGZn0A-2FqM2wOjFGty9K3AsqEkT7NP3-2F7tNKfkDK0W495Pan4KSEJ=
+evF-2Bva-2FnU-2Bd9OOou-2BQ-3D-3D_MxX0S3njLG4NDV-2Bo6inWmp8eos-2BMSsaRtbnpJJ=
+nR2yAPAZYLqgMA89xms3Zmx1oFVrr7WwIVAjurogmzBN59Lc2LmTvBrbsfrNNYy-2FcNopkm-2B=
+ZLTzMlnUmt0AqpwcpwpQWTkswRSpiDGHhIMdHsrh-2Fks6bIdA2sTGzDKAdFUEdN4PY-2FApsY8=
+sjA0RaJ0dS3E47gciaENrQrHNCwHCsTWwLLPWQtrQLJh6AAWLEDtbTlDw6uZ4JcUb3Rkemq1kVR=
+Ika0S-2BkoRrny0Q9DiZVzjj6jc2VhczpA3eVjxkBHxFmtivSqTA5b3IaciFqEyq7diWMNY-2FA=
+0XOXIazzUJ2b4TikEoiFDPKovDqigQy0OfcdBzSI-2BfgUDWlU9-2BtbvRIUkG" style=3D"bo=
+rder-radius: 4px; color: #ffffff; display: inline-block; font-family: sans-=
+serif; font-size: 12px; font-weight: normal; line-height: 24px; text-align:=
+ center; text-decoration: none; width: 60px; -webkit-text-size-adjust: none=
+; mso-hide: all; background: #FA970E; border: 1px solid #df8b41;">View now<=
+/a>
+                                      </td>
+                                    </tr></table></td>
+                              </tr></table></td>
+                          <td class=3D"expander" style=3D"word-break: break=
+-word; -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; border-col=
+lapse: collapse !important; vertical-align: top; text-align: left; visibili=
+ty: hidden; width: 0; color: #333; font-family: 'Helvetica Neue',Helvetica,=
+Arial,sans-serif; font-weight: 400; line-height: 19px; font-size: 14px; mar=
+gin: 0; padding: 0;" align=3D"left" valign=3D"top"></td>
+                        </tr></table></td>
+                  </tr></table><div style=3D"font-size: 20px; line-height: =
+20px; height: 20px;">=C2=A0</div>
+                <!-- Content small ends  -->
+              </td>
+            </tr></table></center>
+      </td>
+    </tr><!-- Header row ends here -->
+<img src=3D"http://slidesharemail.com/wf/open?upn=3DMxX0S3njLG4NDV-2Bo6inWm=
+p8eos-2BMSsaRtbnpJJnR2yAPAZYLqgMA89xms3Zmx1oFVrr7WwIVAjurogmzBN59Lc2LmTvBrb=
+sfrNNYy-2FcNopkm-2BZLTzMlnUmt0AqpwcpwpQWTkswRSpiDGHhIMdHsrh-2Fks6bIdA2sTGzD=
+KAdFUEdN4PY-2FApsY8sjA0RaJ0dS3EoTM5ziflR3O7fCMlrR8ELOieDeHrciHYs9yQ75lNKn-2=
+FznV1jDV-2BCkJP-2FQ4NOg86B-2FF80lxcXuGxgWPw4kdH1WCBVhxXzJ0-2BEiqvkJpFwi79w4=
+9IgUCEb25IrXHa0GuCb44PNWDZ7o4wCLXyxQ8qDfKQBkFB1u4obXVcaAIDXmO-2Bwm8AnA9O7t9=
+6wKplTzUgc" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:=
+1px !important;width:1px !important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 !important;margin-left=
+:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-=
+right:0 !important;padding-left:0 !important;"/>
+

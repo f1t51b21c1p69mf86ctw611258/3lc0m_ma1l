@@ -1,0 +1,1156 @@
+From - Mon Feb 24 08:32:31 2014
+X-Account-Key: account1
+X-UIDL: UID4202-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 15261 invoked by uid 89); 22 Feb 2014 09:20:46 -0000
+Received: by simscan 1.4.0 ppid: 15255, pid: 15256, t: 0.0103s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18504
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 22 Feb 2014 09:20:45 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 36D105E8017;
+	Sat, 22 Feb 2014 09:18:36 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id AIHfom4khTKo; Sat, 22 Feb 2014 16:18:33 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pb0-f44.google.com; client-ip=209.85.160.44
+Received: from mail-pb0-f44.google.com (mail-pb0-f44.google.com [209.85.160.44])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 229905E8004;
+	Sat, 22 Feb 2014 16:18:32 +0700 (ICT)
+Received: by mail-pb0-f44.google.com with SMTP id rq2so4473618pbb.31
+        for <multiple recipients>; Sat, 22 Feb 2014 01:20:40 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=gJqsqUq+q09KQvp9D4hxfolNpI6oZply0nkOhxXSy7g=;
+        b=pss1W8Z11BL9XLUJNEgs/Jmo6x/RrjIISJ6tCaCbVbX6IVQGBJN5/h0IsjWUovjoa/
+         /EyfvKzAsAmJtI1ANdLXPMcyuQiy6otJ4XCLWuFyskgHapv5HZ2u/TCQVYlmahQZpS/G
+         MPIHb2zoS7dffuMUguAicf2GJ/uTLlOKsCc7Cmjcv4MscNX58wsB8d592uHW+1NauY2/
+         ZMTTU6YbHtF+NoKbjvUffDsB5bpuqlZQopLrrvHAz602vG7UhgtJSRMP7UVrvuocM5YB
+         UckVksaMmdXFMTLjQ0X8GpotsJcdWDx1Qz6vZ0NOHmbzoxGxNbQ2ipaTVkmfeyJAWOMn
+         1iVQ==
+X-Received: by 10.66.136.229 with SMTP id qd5mr14075701pab.118.1393060839985;
+        Sat, 22 Feb 2014 01:20:39 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id xf3sm29268634pbc.30.2014.02.22.01.20.37
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 22 Feb 2014 01:20:39 -0800 (PST)
+thread-index: Ac8vr1jTPFU+FhqyTOqNvPtW8LpyyA==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+Date: Sat, 22 Feb 2014 16:20:37 +0700
+Message-ID: <000201cf2faf$58d30380$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi All!
+
+Đề nghị QTDA duyệt yêu cầu làm thêm cho nhân viên: Trần Hữu Nguyên
+
+Nội dung CV/ Lí do: Hướng dẫn PQA test Rerate<br>
+
+KQ cần đạt được: Hướng dẫn test phần Voice, SMS, Data<br>
+
+Ngày làm thêm:2/22/2014
+
+Địa điểm:ELCOM
+
+Từ-Đến(giờ):11:00 - 18:00
+
+Thank you!
+
+
+
+From - Mon Feb 24 08:32:31 2014
+X-Account-Key: account1
+X-UIDL: UID4203-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 17991 invoked by uid 89); 22 Feb 2014 09:25:01 -0000
+Received: by simscan 1.4.0 ppid: 17986, pid: 17987, t: 0.0089s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18504
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 22 Feb 2014 09:25:01 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 1F4025E8018;
+	Sat, 22 Feb 2014 09:22:52 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id g8nwAu73dr4m; Sat, 22 Feb 2014 16:22:49 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pb0-f49.google.com; client-ip=209.85.160.49
+Received: from mail-pb0-f49.google.com (mail-pb0-f49.google.com [209.85.160.49])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 2FFFD5E8004;
+	Sat, 22 Feb 2014 16:22:48 +0700 (ICT)
+Received: by mail-pb0-f49.google.com with SMTP id up15so4421749pbc.8
+        for <multiple recipients>; Sat, 22 Feb 2014 01:24:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=JX2RW9Htn8Su8yJp8BPudSQBH9JJLc7gEK1k7NaEzh0=;
+        b=SlE2yfuI3O/WEH0KGLZc7XdvRzDtph44+MN95VFSgnTcwckqFX1mBJiJaxs7jlCSWu
+         ZIpXXBvJfjFeI4JSrpeeSb9hpTER0qQ0iGSbwez2Vt/TCZaAQb4gN2rpYKS7v8PEJirD
+         78UkrwTcpHGpW7xkUxCfh3J8R8oT5EiB9WGNpmK3xn2eMFVB74UJDjpKO/BAxI4XYcTs
+         zStTxBzN0LY3hlRXjikP7JeyNDqcPz7BO8KxQIe39sQvCHSvve1PnZarw8WW74T5O0/t
+         P1hTWPfzbt9RIt3d5Yumdsbs/JhztpA8l5PLE13oeb69bEmF1tWUMFrCxz5hOSeyC5S9
+         s77g==
+X-Received: by 10.68.245.162 with SMTP id xp2mr14189324pbc.69.1393061097736;
+        Sat, 22 Feb 2014 01:24:57 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id vn10sm29333052pbc.21.2014.02.22.01.24.55
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 22 Feb 2014 01:24:56 -0800 (PST)
+thread-index: Ac8vr/KFSPHEjTDLRL237oDNOx7lmw==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+Date: Sat, 22 Feb 2014 16:24:55 +0700
+Message-ID: <000401cf2faf$f2852cb0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA xác nhận đồng ý yêu cầu làm thêm cho nhân viên: nguyenth
+
+Thank you!
+
+From - Sun Mar 02 17:51:46 2014
+X-Account-Key: account1
+X-UIDL: UID4228-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 1951 invoked by uid 89); 24 Feb 2014 08:35:32 -0000
+Received: by simscan 1.4.0 ppid: 1930, pid: 1945, t: 0.0186s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18509
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 24 Feb 2014 08:35:32 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 24CDA5E8004;
+	Mon, 24 Feb 2014 08:33:20 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2q85ZX20PMeg; Mon, 24 Feb 2014 15:33:16 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pa0-f43.google.com; client-ip=209.85.220.43
+Received: from mail-pa0-f43.google.com (mail-pa0-f43.google.com [209.85.220.43])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id E243F5E8003;
+	Mon, 24 Feb 2014 15:33:15 +0700 (ICT)
+Received: by mail-pa0-f43.google.com with SMTP id rd3so6258077pab.2
+        for <multiple recipients>; Mon, 24 Feb 2014 00:35:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=IO8bD2mdBrx6gKzCfiI6pMDD9Wtj8xDoPC+Se7HjEFw=;
+        b=G3NytVtyvi6Om7UgSMRKtYPv9IrkACVjt/ozH8r0wpRxazqtuIzp6ZylZy2JC1OmSS
+         Cbnu7H75dYvoRa1shshbRKxPZkh3PbGFCTW/Pqx963JD8b4raZvjuOeIV5T4BP6IN+39
+         o/d0Edy4VLaACwbK7qFfl0QlYxVj50XtYAO/jHX/VObo1081oEJYBYhcyCL3ozz5POvI
+         XJ8l301MYSkSAIjI+FNaRI8GhsDpaUgEz7pzUuGwftGN/GEYqhagq9zN/XzCXrRBoYfw
+         68TXmSiuFrPnlAz+RKQvXPJqRJ5NY6fqKD/SbRoMxbTmaepcbRX9bhyRML91uW9/AWnb
+         9Uag==
+X-Received: by 10.69.13.132 with SMTP id ey4mr4760726pbd.22.1393230926465;
+        Mon, 24 Feb 2014 00:35:26 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id f5sm114286871pat.11.2014.02.24.00.35.24
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 24 Feb 2014 00:35:25 -0800 (PST)
+thread-index: Ac8xO1uSjiPheGzIQQqHwc83lYbgwQ==
+Thread-Topic: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+Date: Mon, 24 Feb 2014 15:35:22 +0700
+Message-ID: <000001cf313b$5b970890$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA duyệt kết quả làm thêm cho nhân viên: nguyenth@elcom.com.vnNội dung:
+
+Hướng dẫn PQA test Rerate<br>
+
+Kết quả thực tế:
+
+Đã hướng dẫn PQA test phần voice, data, phần sms cần kiểm tra lại.<br>
+
+Thank you!
+
+From - Sun Mar 02 17:51:56 2014
+X-Account-Key: account1
+X-UIDL: UID5220-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 25096 invoked by uid 89); 1 Mar 2014 09:07:28 -0000
+Received: by simscan 1.4.0 ppid: 25091, pid: 25092, t: 0.0103s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18525
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 1 Mar 2014 09:07:28 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id C1282451A71;
+	Sat,  1 Mar 2014 09:05:10 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9HtAfZ+ddhjO; Sat,  1 Mar 2014 16:05:07 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pd0-f179.google.com; client-ip=209.85.192.179
+Received: from mail-pd0-f179.google.com (mail-pd0-f179.google.com [209.85.192.179])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id BDC2A451A3F;
+	Sat,  1 Mar 2014 16:05:06 +0700 (ICT)
+Received: by mail-pd0-f179.google.com with SMTP id w10so1752789pde.38
+        for <multiple recipients>; Sat, 01 Mar 2014 01:07:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=o7xVke3gwIheV6zfQ3M5qwupFwnxdApbQS1+8udftOw=;
+        b=wwICsVk+ndK4pXsId3oa1biZioBXC7szBTsnN9MRL4Z7KdQTK05o7JqpjpZZMuB8Vo
+         CztyjHurVy/ET30itac0cLFwzL/BKWxuKzICcKgTRKMj32gCMEFNiRTbB6ZPZa6VOk6v
+         nKRP/MAstUQlagIldN30FuBXKJ135cNe6UaQxYG3pK2UfxDTqFxasinm/oi/oO046my2
+         XREjThCElCT/ELBcYIn89FfowUaCHY0HL7O/n7up/2yqdB1Oje9aGETo53CVs1h1zjGj
+         b2IQVqUmkSndTVwFKZucAPgy7SjJ+9s5DgzzSrlENySLJd8xAHSEx+j3kZ5aerDKsLLA
+         bp/A==
+X-Received: by 10.66.179.7 with SMTP id dc7mr8639146pac.47.1393664842530;
+        Sat, 01 Mar 2014 01:07:22 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id z3sm33516634pas.15.2014.03.01.01.07.20
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 01 Mar 2014 01:07:21 -0800 (PST)
+thread-index: Ac81LaND4YjntEXgRieYgBLOhJeXcw==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+Date: Sat, 1 Mar 2014 16:07:14 +0700
+Message-ID: <000b01cf352d$a343be40$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi All!
+
+Đề nghị QTDA duyệt yêu cầu làm thêm cho nhân viên: Trần Hữu Nguyên
+
+Nội dung CV/ Lí do: * Fix Bug module Rerate
+    - Bug không thực hiện Trừ cước theo MaxFee
+
+KQ cần đạt được: * Fixed bug và test đầy đủ
+
+Ngày làm thêm:3/1/2014
+
+Địa điểm:ELCOM
+
+Từ-Đến(giờ):10:00 - 18:00
+
+Thank you!
+
+
+
+From - Sun Mar 02 17:51:56 2014
+X-Account-Key: account1
+X-UIDL: UID5221-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 29326 invoked by uid 89); 1 Mar 2014 09:11:29 -0000
+Received: by simscan 1.4.0 ppid: 29321, pid: 29322, t: 0.0088s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18525
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 1 Mar 2014 09:11:29 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 9E3B9451A73;
+	Sat,  1 Mar 2014 09:09:11 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SLeOY7Gn9c+m; Sat,  1 Mar 2014 16:09:07 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pa0-f46.google.com; client-ip=209.85.220.46
+Received: from mail-pa0-f46.google.com (mail-pa0-f46.google.com [209.85.220.46])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 5F62C451A3F;
+	Sat,  1 Mar 2014 16:09:06 +0700 (ICT)
+Received: by mail-pa0-f46.google.com with SMTP id kp14so1725443pab.33
+        for <multiple recipients>; Sat, 01 Mar 2014 01:11:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=DbDcfqNTZAa26ZYiAVHttw1nTSjJE8wIsDNmPFO8pds=;
+        b=qvq9CLLkk37NC5YsLbUXgQOgeZZymoDGTnea+zZsXlIEnYgM+uLik9jyTyYkTkKiVn
+         WD1N2dj7xvshLdLYiUAN2pV8x18aUBJAWw0wqD7IebcTuP3iwTWCYaf/5AdLpIJoLy2p
+         vX+ntecGE4CGK1dBr8CkY0kWO2vNIHhK+djcRdSi/KaWMVj8dmwxpjzmNboiCvOYwOG4
+         tqwCW2EUtGHRl7O2ltnM7V4dvI14o4tSSBIKRfH+ddVaW7WoN8vC9u1t+wBTZFR/yzYL
+         JBWdmyPJhlsthO3ku6iH4z3Ue64Kf7aCMJ6Dq9rK2w01yCT2qzeN3HsB6rUE/a5Mb08Z
+         HFOA==
+X-Received: by 10.67.23.135 with SMTP id ia7mr8483470pad.5.1393665083554;
+        Sat, 01 Mar 2014 01:11:23 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id sx8sm33641943pab.5.2014.03.01.01.11.21
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 01 Mar 2014 01:11:22 -0800 (PST)
+thread-index: Ac81LjTBtAR4qtujSg63iOVdQLSwgA==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+Date: Sat, 1 Mar 2014 16:11:18 +0700
+Message-ID: <000d01cf352e$34c18820$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA đã xác nhận đồng ý yêu cầu làm thêm cho nhân viên: nguyenth
+
+Mời thực hiện bước tiếp theo: cập nhật đúng KQ làm thêm của bạn trên trang web.
+
+Thank you!
+
+From - Mon Mar 03 09:09:44 2014
+X-Account-Key: account1
+X-UIDL: UID5232-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 12441 invoked by uid 89); 3 Mar 2014 02:07:54 -0000
+Received: by simscan 1.4.0 ppid: 12436, pid: 12437, t: 0.0100s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18526
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 3 Mar 2014 02:07:54 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id A97C7451D0F;
+	Mon,  3 Mar 2014 02:05:34 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id MpvoScAVf+Bg; Mon,  3 Mar 2014 09:05:31 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pb0-f50.google.com; client-ip=209.85.160.50
+Received: from mail-pb0-f50.google.com (mail-pb0-f50.google.com [209.85.160.50])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id B251045133A;
+	Mon,  3 Mar 2014 09:05:30 +0700 (ICT)
+Received: by mail-pb0-f50.google.com with SMTP id md12so3142185pbc.9
+        for <multiple recipients>; Sun, 02 Mar 2014 18:07:48 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=EPYb9o1FdhRalPweWeGDvZtJARwKwvUn1bV9IusN7ws=;
+        b=joCRIRTiCN7a01qHz6qGe/2ZquQ2LLinkQtuMyZcgNKyKDdKBuyCmkOloyOZvAjZtL
+         ZiH+SBwDC8CIA+6Q0m0/dEmOAGwCM31ewMWf45qEy5hEh7r51Abq1xOkHJ0I3DBZ4rUL
+         6KC3yAY/N3LMmDxyOOc7nf3Poxi64uYq3bwNj3uP/N+mF9NE12n8p2LI50RRCa2TdXaT
+         9q8OVPlBUm27NaLDdQf4l8emzW9xIloL08YQWHN2et5Pns20SNbdAlEzegQxREhjosDz
+         uumqSCLETFgnhsufExtXMTVB1qcHvWu1IEXPDpOz1akywWoMgo0Tt7J7qBMHXRSlYCdE
+         GYhg==
+X-Received: by 10.66.136.229 with SMTP id qd5mr3930319pab.118.1393812468810;
+        Sun, 02 Mar 2014 18:07:48 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id tu3sm73664345pab.1.2014.03.02.18.07.47
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 02 Mar 2014 18:07:48 -0800 (PST)
+thread-index: Ac82hVyTedGlO73RTDOQFN0GWQe5UQ==
+Thread-Topic: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+Date: Mon, 3 Mar 2014 09:07:42 +0700
+Message-ID: <000901cf3685$5c9395c0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA duyệt kết quả làm thêm cho nhân viên: nguyenth@elcom.com.vnNội dung:
+
+* Fix Bug module Rerate
+    - Bug không thực hiện Trừ cước theo MaxFee
+
+Kết quả thực tế:
+
+* Fix được bug
+
+Thank you!
+
+From - Sat Mar  8 20:59:40 2014
+X-Account-Key: account1
+X-UIDL: UID5291-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 16935 invoked by uid 89); 8 Mar 2014 10:10:51 -0000
+Received: by simscan 1.4.0 ppid: 16930, pid: 16931, t: 0.0102s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18550
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 8 Mar 2014 10:10:51 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 2D512452A91;
+	Sat,  8 Mar 2014 10:08:26 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id APU31lnx59TK; Sat,  8 Mar 2014 17:08:23 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pd0-f196.google.com; client-ip=209.85.192.196
+Received: from mail-pd0-f196.google.com (mail-pd0-f196.google.com [209.85.192.196])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 2E28E452A8C;
+	Sat,  8 Mar 2014 17:08:22 +0700 (ICT)
+Received: by mail-pd0-f196.google.com with SMTP id p10so2314036pdj.11
+        for <multiple recipients>; Sat, 08 Mar 2014 02:10:47 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=ygfwtsKblFdgmlk3QX/4zSPXZ0C6rUNneDspctvbyWY=;
+        b=J4EMAYBIOp6j30WvvPqW+QnW5nq++FnlGkOISHdmAu4+aHARKypVou3HZx9fPAZTaP
+         N2EpRXDf6131dBskY2sK3m+ZAnbywEBozJK+jsOfTfRhvi1yGzAcELuA6q7yBlqXFf3e
+         O2N14SC884RWlm+qdzmwxspihU9WCvHYZYVaah17yKKze8Ix7By4GJapJRAdgtFxBayd
+         jXN+AQoh/WyBj/6bZRK7jVAsy3CPguDuA0RzpjRQSNXUwfGEV1bbjp6A7UK8Gd2bBWo+
+         nKxQftDhU7statV2/i/74kZZy+HALSB4syR6cg/6U9IE3jEJb9Nk1IuoTtAtGpXBzfwr
+         FYmQ==
+X-Received: by 10.68.96.99 with SMTP id dr3mr27917167pbb.40.1394273447169;
+        Sat, 08 Mar 2014 02:10:47 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id gj9sm45133060pbc.7.2014.03.08.02.10.44
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 08 Mar 2014 02:10:46 -0800 (PST)
+thread-index: Ac86tqnPFtnhsxp1QayqX3WPiswF2A==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+Date: Sat, 8 Mar 2014 17:10:42 +0700
+Message-ID: <000001cf3ab6$a9d214d0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi All!
+
+Đề nghị QTDA duyệt yêu cầu làm thêm cho nhân viên: Trần Hữu Nguyên
+
+Nội dung CV/ Lí do: * Viết procedure lấy dữ liệu từ PCAT về eOneRate
+
+KQ cần đạt được: * Lấy được dữ liệu Primary Offer, Sub Offer, Balance, Accumulator, Threshold
+
+Ngày làm thêm:3/8/2014
+
+Địa điểm:ELCOM
+
+Từ-Đến(giờ):10:00 - 18:00
+
+Thank you!
+
+
+
+From - Sat Mar  8 20:59:40 2014
+X-Account-Key: account1
+X-UIDL: UID5292-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 16985 invoked by uid 89); 8 Mar 2014 10:10:55 -0000
+Received: by simscan 1.4.0 ppid: 16980, pid: 16981, t: 0.0084s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18550
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 8 Mar 2014 10:10:55 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id C5919452A91;
+	Sat,  8 Mar 2014 10:08:29 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14+cDPsGRQmy; Sat,  8 Mar 2014 17:08:29 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pa0-f67.google.com; client-ip=209.85.220.67
+Received: from mail-pa0-f67.google.com (mail-pa0-f67.google.com [209.85.220.67])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 2FD4A452A8C;
+	Sat,  8 Mar 2014 17:08:28 +0700 (ICT)
+Received: by mail-pa0-f67.google.com with SMTP id bj1so2716279pad.2
+        for <multiple recipients>; Sat, 08 Mar 2014 02:10:53 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=ygfwtsKblFdgmlk3QX/4zSPXZ0C6rUNneDspctvbyWY=;
+        b=yBpkyplMz/BASfyJ8FosXQ3vi1ogAviRB6zx+4+idFhwS4xxG8HFHBelih3oSnu/hX
+         qrOVUsOdzrJWl/2fizqYrSlLby1Y128DDF4izdXU2PUrD+Yz3LChMnPbAmJaJDowdDXT
+         hfoqzRmhM5gG7NP1ZHPRdxkVb9azRu5EFy/wXrunMrJP5zYbwTlbajykVP9QM/Wdo5bd
+         Bfm0yfhYPhuK2SASUINLkHLyWM/5vQl3gbkFGMZsoN4udOZAh5qeLPdbPhb3Z+be/VK+
+         U7D34uz+YgnfMpX7+H33lRjVkLYl1/3lR1Y59fbnYgX3x/3Y4ZoUghEZCptPet5afLV3
+         Qutg==
+X-Received: by 10.68.245.162 with SMTP id xp2mr27806436pbc.69.1394273452993;
+        Sat, 08 Mar 2014 02:10:52 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id sm5sm27497825pab.19.2014.03.08.02.10.50
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 08 Mar 2014 02:10:52 -0800 (PST)
+thread-index: Ac86tq205ClZCkuMS3GKSW1+PHLRKg==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+Date: Sat, 8 Mar 2014 17:10:48 +0700
+Message-ID: <000101cf3ab6$adb43100$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi All!
+
+Đề nghị QTDA duyệt yêu cầu làm thêm cho nhân viên: Trần Hữu Nguyên
+
+Nội dung CV/ Lí do: * Viết procedure lấy dữ liệu từ PCAT về eOneRate
+
+KQ cần đạt được: * Lấy được dữ liệu Primary Offer, Sub Offer, Balance, Accumulator, Threshold
+
+Ngày làm thêm:3/8/2014
+
+Địa điểm:ELCOM
+
+Từ-Đến(giờ):10:00 - 18:00
+
+Thank you!
+
+
+
+From - Sat Mar  8 20:59:40 2014
+X-Account-Key: account1
+X-UIDL: UID5293-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 19987 invoked by uid 89); 8 Mar 2014 10:15:38 -0000
+Received: by simscan 1.4.0 ppid: 19954, pid: 19983, t: 0.0089s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18550
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 8 Mar 2014 10:15:38 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 7CBEC452A8C;
+	Sat,  8 Mar 2014 10:13:10 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vaDkic-l-zD3; Sat,  8 Mar 2014 17:13:06 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pd0-f176.google.com; client-ip=209.85.192.176
+Received: from mail-pd0-f176.google.com (mail-pd0-f176.google.com [209.85.192.176])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 81661452A92;
+	Sat,  8 Mar 2014 17:13:05 +0700 (ICT)
+Received: by mail-pd0-f176.google.com with SMTP id r10so5067290pdi.21
+        for <multiple recipients>; Sat, 08 Mar 2014 02:15:29 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=DbDcfqNTZAa26ZYiAVHttw1nTSjJE8wIsDNmPFO8pds=;
+        b=PyvOnuWoNeDfDhBxHFh8fsyrJXekUOuHLJDAYF+Z96jJszVBDTSSleg5NaaHv83JQH
+         kOsarwZIh1NWGnk2+DHq/V/prCRVzcIvDVd8Sf2+UAKqkkZW5OKHPkCV43xt9g3+DVqM
+         PYP1+zAVMhuulnnO6Oe+CDXbu66JPm6UXhfzMTxMiFSJ+TOifpnstT0FOosOad8i0cWV
+         L0oW2UJ0+lilh5/BaKgy1dlVP2urTTEOizGNY9DxpII6UM2l76ghEPvjrneMvGcRwY4z
+         XgJybFHDrnXlL2Z8dnJIokG33NDUQ7db3JDfrz+yoz2GI5DSu4uHbldEqM8cG7TXXnKO
+         XEOw==
+X-Received: by 10.68.194.65 with SMTP id hu1mr27809297pbc.158.1394273729090;
+        Sat, 08 Mar 2014 02:15:29 -0800 (PST)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id oz7sm46162572pbc.41.2014.03.08.02.15.27
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 08 Mar 2014 02:15:28 -0800 (PST)
+thread-index: Ac86t1MZ/CmVXd4ET9ONQBJ+ifVfIQ==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+Date: Sat, 8 Mar 2014 17:15:26 +0700
+Message-ID: <000301cf3ab7$53190ad0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA đã xác nhận đồng ý yêu cầu làm thêm cho nhân viên: nguyenth
+
+Mời thực hiện bước tiếp theo: cập nhật đúng KQ làm thêm của bạn trên trang web.
+
+Thank you!
+
+From - Mon Mar 10 20:24:31 2014
+X-Account-Key: account1
+X-UIDL: UID5307-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 19578 invoked by uid 89); 10 Mar 2014 01:24:10 -0000
+Received: by simscan 1.4.0 ppid: 19572, pid: 19573, t: 0.0069s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18563
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 10 Mar 2014 01:24:10 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id E3820452DCF;
+	Mon, 10 Mar 2014 01:21:42 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id A6KLLBWliput; Mon, 10 Mar 2014 08:21:39 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pa0-f52.google.com; client-ip=209.85.220.52
+Received: from mail-pa0-f52.google.com (mail-pa0-f52.google.com [209.85.220.52])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 8A3D7452DD0;
+	Mon, 10 Mar 2014 08:21:37 +0700 (ICT)
+Received: by mail-pa0-f52.google.com with SMTP id rd3so6560912pab.39
+        for <multiple recipients>; Sun, 09 Mar 2014 18:24:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=AWcoDTXPPtiBXLoUewnna3Qm3X8+Ejv9dAdVpnzJsdk=;
+        b=Wd43fd5LF7QjskSb0mdjlwjAxUUvCf/X78acXX1LXYVmmy9JhMyvVj3fQXvwDfmaGV
+         wTo3xVtEEowDeuAegzRdxqXt7VXF1dTvCojEEpqmq9w0uU/pIAOOUk9x0c/S3eeZhgxk
+         NXZRNl7p88OFwWz3D/rt0yG7vxFeb9vqiDn7QY9jLCR8HEtHaHXoBcP7a9A9yJ7AdcF8
+         BsNbawzj+TcCWgIhURJXRlWCFOR7a9hUChtjtSEriRlMzetvWWgCrt9cXetz9jXzUS/0
+         Xp65DmDM/JUsm4S3AvV+vkYL7HaKBr+kIa8QvBfjKoFBUeVsjbu/j8olu0JIJq2dmYc0
+         UotA==
+X-Received: by 10.66.218.234 with SMTP id pj10mr85056pac.156.1394414641814;
+        Sun, 09 Mar 2014 18:24:01 -0700 (PDT)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id nx12sm17440794pab.6.2014.03.09.18.23.59
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 09 Mar 2014 18:24:01 -0700 (PDT)
+thread-index: Ac87/2k0wXsEpvIRQRC06taix0lDHg==
+Thread-Topic: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+Date: Mon, 10 Mar 2014 08:23:58 +0700
+Message-ID: <000101cf3bff$69369dc0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA duyệt kết quả làm thêm cho nhân viên: nguyenth@elcom.com.vnNội dung:
+
+* Viết procedure lấy dữ liệu từ PCAT về eOneRate
+
+Kết quả thực tế:
+
+* Đang viết các query móc nối giữa các bảng liên quan: Giữa Offer + Balance, Discount + Accumulator + Threshold (50%)
+
+Thank you!
+
+From - Sat Mar 15 22:36:29 2014
+X-Account-Key: account1
+X-UIDL: UID5370-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 2286 invoked by uid 89); 15 Mar 2014 15:13:21 -0000
+Received: by simscan 1.4.0 ppid: 2281, pid: 2282, t: 0.0106s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18602
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 15 Mar 2014 15:13:21 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id BEBC045514E;
+	Sat, 15 Mar 2014 15:10:47 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2rDmOsxlod9F; Sat, 15 Mar 2014 22:10:43 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pa0-f41.google.com; client-ip=209.85.220.41
+Received: from mail-pa0-f41.google.com (mail-pa0-f41.google.com [209.85.220.41])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 7065445418F;
+	Sat, 15 Mar 2014 22:10:42 +0700 (ICT)
+Received: by mail-pa0-f41.google.com with SMTP id fa1so3909823pad.28
+        for <multiple recipients>; Sat, 15 Mar 2014 08:13:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=iwNzFpsDQo1XAUMwzvj0FeYV+Fg+nbGBzpj/aVDC/HA=;
+        b=P2TkaCIK1D2Utr69PShHjmwniHOx4c4QYIeN555eS3cSVKn89FSgwim2zwb5PoUx2I
+         Uaj626z2V4r6B/o+RDIdjnAuiafixkEcprbVZUienaEbgmnyUGgqYyl4Tvm6O8Vj1z2h
+         09SlARuIYN7i9qO3vXLn6s8SGYtpkTJION3qtFnMOWAMwasiRLFX84MuIuTnxey7sf7T
+         2vsy27ZXfpiABwUdvvvY7YOLnQK4LfIC4Uc73y3HniirbzOwCvIJOXRpd4FJEYvOCc2p
+         n2myGI8Juv1fwZa6jkb/fXEypLktCfHh6AwUUYlmmasGMJ6RNQ234PfXUmy6ZW4zzrNs
+         OLTA==
+X-Received: by 10.67.5.131 with SMTP id cm3mr15682060pad.92.1394896394862;
+        Sat, 15 Mar 2014 08:13:14 -0700 (PDT)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id oz7sm26814596pbc.41.2014.03.15.08.13.12
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 15 Mar 2014 08:13:13 -0700 (PDT)
+thread-index: Ac9AYRPkxAvFa8JiQ7S09fEPD7q33Q==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+Date: Sat, 15 Mar 2014 22:13:10 +0700
+Message-ID: <000001cf4061$13eba750$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi All!
+
+Đề nghị QTDA duyệt yêu cầu làm thêm cho nhân viên: Trần Hữu Nguyên
+
+Nội dung CV/ Lí do: * Lấy dữ liệu từ C1 - PCAT
+
+KQ cần đạt được: * Lấy được Discount, Priority thông qua OfferPromotionPlanMap -> PromotionPlan-> DiscountItem -> AUT Final + Discount -> DiscountModel + DiscountMap
+
+Ngày làm thêm:3/15/2014
+
+Địa điểm:ELCOM
+
+Từ-Đến(giờ):09:00 - 20:00
+
+Thank you!
+
+
+
+From - Sat Mar 15 22:36:29 2014
+X-Account-Key: account1
+X-UIDL: UID5371-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 4388 invoked by uid 89); 15 Mar 2014 15:16:20 -0000
+Received: by simscan 1.4.0 ppid: 4378, pid: 4383, t: 0.0090s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18602
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 15 Mar 2014 15:16:20 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 8258345515B;
+	Sat, 15 Mar 2014 15:13:47 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TvRm5xx0lgPv; Sat, 15 Mar 2014 22:13:43 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pd0-f170.google.com; client-ip=209.85.192.170
+Received: from mail-pd0-f170.google.com (mail-pd0-f170.google.com [209.85.192.170])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 8435445418F;
+	Sat, 15 Mar 2014 22:13:42 +0700 (ICT)
+Received: by mail-pd0-f170.google.com with SMTP id v10so3797885pde.1
+        for <multiple recipients>; Sat, 15 Mar 2014 08:16:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=DbDcfqNTZAa26ZYiAVHttw1nTSjJE8wIsDNmPFO8pds=;
+        b=y+M3VAaky3ru5fDLrPkUtHZZBgTe1w0YafmbaSLKsb96KJQW1hgwEqegqLeGxagRtG
+         gCtHKDLN5+yzUPeqCUfvbtxn0SePZKr7SW99Td+u+3ux+m7yI0hehDthbtP6O72mysyn
+         zy6MF7kZhKQwYl4nGgKBLlToD7fr0s57PPlBXdBBaSRy0mu1NpRykVGVZur5JNwr+WPz
+         uPH1k/m/qlCb53I1K+AZhYzwUO3d7LMCdvcwqNHniKzbS1aCj2yngD5/tiTtNQlJhOon
+         Bgka2MuIvuQb9GieAv3SHOwXKDRmebLBAPQXGY6lA4SwHgaW7y+P+YxyPGgyAfAh8+SQ
+         Ww6Q==
+X-Received: by 10.68.171.193 with SMTP id aw1mr15181255pbc.117.1394896574483;
+        Sat, 15 Mar 2014 08:16:14 -0700 (PDT)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id yz5sm43026384pac.9.2014.03.15.08.16.12
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 15 Mar 2014 08:16:13 -0700 (PDT)
+thread-index: Ac9AYX9lu0QzhHv0SXGg4sLnQSMlcA==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+Date: Sat, 15 Mar 2014 22:16:11 +0700
+Message-ID: <000101cf4061$7f653be0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA đã xác nhận đồng ý yêu cầu làm thêm cho nhân viên: nguyenth
+
+Mời thực hiện bước tiếp theo: cập nhật đúng KQ làm thêm của bạn trên trang web.
+
+Thank you!
+
+From - Tue Mar 18 01:08:19 2014
+X-Account-Key: account1
+X-UIDL: UID5401-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 17056 invoked by uid 89); 17 Mar 2014 08:13:07 -0000
+Received: by simscan 1.4.0 ppid: 17051, pid: 17052, t: 0.0097s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18612
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 17 Mar 2014 08:13:07 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 5928C4553F5;
+	Mon, 17 Mar 2014 08:10:32 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id osFGZ5u5s4Az; Mon, 17 Mar 2014 15:10:28 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pa0-f44.google.com; client-ip=209.85.220.44
+Received: from mail-pa0-f44.google.com (mail-pa0-f44.google.com [209.85.220.44])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 62578454371;
+	Mon, 17 Mar 2014 15:10:27 +0700 (ICT)
+Received: by mail-pa0-f44.google.com with SMTP id bj1so5434806pad.3
+        for <multiple recipients>; Mon, 17 Mar 2014 01:13:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=hKpL1d+hxIneHBnZYD/7yZ+njx7QCAqNNHCL7hvkbBU=;
+        b=PJtiv9X8KYR2CJmKEf+ffAaYi1CAaozhQ0TaC21nh+afVeFI1NDfXKkQOV+nlI0Kxy
+         pIoaEmeSq2Xvtasi6W7h7EwEK9S1+wxk+K7181nLUs7qjITuCr80jwa1zbbEiJF2fc2l
+         bTUeuwxcBNHLSYClkifihAuager3HRC9y6eXEZpX81jo5Lpf+Gk5TMn/hA2zaUaRr3Ae
+         JW7jeDHRnTz744PWrh1DyFbvT6bWpWEoQzzJFXEb7+17Ex2ygg673Pd63aTqIfgbtOMh
+         WOmOqNd/K7WF1kQ/W8LiLadC59uTFji+1p9w/xjZBRO+7sugRcPJGFb+Er1Iwzv2/yE1
+         q0Nw==
+X-Received: by 10.68.133.163 with SMTP id pd3mr1662443pbb.166.1395043982211;
+        Mon, 17 Mar 2014 01:13:02 -0700 (PDT)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id nx12sm68289571pab.6.2014.03.17.01.13.00
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 17 Mar 2014 01:13:01 -0700 (PDT)
+thread-index: Ac9BuLPGU7b6qizfQtCBe/g4szk0ig==
+Thread-Topic: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?Q?QLCV:_QTDA_duy=E1=BB=87t_k=E1=BA=BFt_qu=E1=BA=A3_l=C3=A0m_th?=
+	=?utf-8?Q?=C3=AAm_!?=
+Date: Mon, 17 Mar 2014 15:12:56 +0700
+Message-ID: <000201cf41b8$b3c6eca0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA duyệt kết quả làm thêm cho nhân viên: nguyenth@elcom.com.vnNội dung:
+
+* Lấy dữ liệu từ C1 - PCAT
+
+Kết quả thực tế:
+
+* Lấy được DiscountMap + DiscountModel
+
+Thank you!
+
+From - Sat Apr 19 20:31:39 2014
+X-Account-Key: account1
+X-UIDL: UID5817-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 1801 invoked by uid 89); 19 Apr 2014 12:01:02 -0000
+Received: by simscan 1.4.0 ppid: 1795, pid: 1796, t: 0.0106s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18826
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 19 Apr 2014 12:01:02 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id C29EC453E3D;
+	Sat, 19 Apr 2014 11:58:46 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GdnrKVqlS5Fi; Sat, 19 Apr 2014 18:58:42 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pd0-f171.google.com; client-ip=209.85.192.171
+Received: from mail-pd0-f171.google.com (mail-pd0-f171.google.com [209.85.192.171])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id B8892453E1E;
+	Sat, 19 Apr 2014 18:58:40 +0700 (ICT)
+Received: by mail-pd0-f171.google.com with SMTP id r10so2224247pdi.30
+        for <multiple recipients>; Sat, 19 Apr 2014 05:01:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=D2QBaA6cGbzWdE4as1Dfb8Ep7rXFYJs/WN2iJMrs67o=;
+        b=MG91aHGUaU5hGv3NFJtDk1WLte1Kvi/Q96h+k+rXfZVymWy2hVziTWuio9cu7B4l8l
+         6VDVQ8J/ptoKnsS9E1GorL8GKepXHH54sSrCLGYksjtSu8vfogxIosR4HxeOKI6SULjI
+         xPZcfMZtoya4phBaqcIRmCosNcNryoM4+OXRYEJsOVPCaxyzgifY9urqzaF60Q+Xqctf
+         bB04oo7NnoR1Te39seuvueGlQWHfpz92cbFRS8lRZyS+291wjZl8oXXfXq17b69u2J1z
+         mofs38BJe0xZdytHcBLAI7GsrYoYQxN2RFpO7VB1fdXgi71Ivs1vy5tVoCNhTPTPGkug
+         ESVQ==
+X-Received: by 10.68.196.137 with SMTP id im9mr26977459pbc.105.1397908913303;
+        Sat, 19 Apr 2014 05:01:53 -0700 (PDT)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id di3sm38092555pbc.11.2014.04.19.05.01.50
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 19 Apr 2014 05:01:52 -0700 (PDT)
+thread-index: Ac9bxyjIuzVFbxkURrqffbO8fMskaA==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIGPhuqVwIHRyw6puIHjDoWMgbmjhuq1uIA==?=
+	=?utf-8?B?ecOqdSBj4bqndSBsw6BtIHRow6ptICE=?=
+Date: Sat, 19 Apr 2014 19:01:55 +0700
+Message-ID: <000001cf5bc7$28cb10d0$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+Hi All!
+
+Đề nghị QTDA duyệt yêu cầu làm thêm cho nhân viên: Trần Hữu Nguyên
+
+Nội dung CV/ Lí do: * Change code theo yêu cầu, thống nhất với VNP sau cuộc họp hôm thứ 5
+   - Change Balance Award theo Priority
+   - Rating theo Priority
+   - Discount theo Priority
+
+KQ cần đạt được: Hoàn thành quá trình Rating
+
+Ngày làm thêm:4/19/2014
+
+Địa điểm:ELCOM
+
+Từ-Đến(giờ):10:00 - 18:00
+
+Thank you!
+
+
+
+From - Sat Apr 19 20:31:39 2014
+X-Account-Key: account1
+X-UIDL: UID5818-1357785201
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-Path: <quanlycv@gmail.com>
+Delivered-To: nguyenth@elcom.com.vn
+Received: (qmail 2267 invoked by uid 89); 19 Apr 2014 12:01:49 -0000
+Received: by simscan 1.4.0 ppid: 2261, pid: 2262, t: 0.0091s
+         scanners: attach: 1.4.0 clamav: 0.97.6/m:55/d:18826
+Received: from unknown (HELO mail-gw.elcom.com.vn) (172.16.254.21)
+  by mail1 with SMTP; 19 Apr 2014 12:01:49 -0000
+Received: from localhost (unknown [127.0.0.1])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 13ADA453E3D;
+	Sat, 19 Apr 2014 11:59:34 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at elcom.com.vn
+Received: from mail-gw.elcom.com.vn ([127.0.0.1])
+	by localhost (mail-gw.elcom.com.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9gY07axlZjG1; Sat, 19 Apr 2014 18:59:31 +0700 (ICT)
+Received-SPF: pass (gmail.com ... _spf.google.com: Sender is authorized to use 'quanlycv@gmail.com' in 'mfrom' identity (mechanism 'include:_netblocks.google.com' matched)) receiver=mail-gw.elcom.com.vn; identity=mfrom; envelope-from="quanlycv@gmail.com"; helo=mail-pb0-f50.google.com; client-ip=209.85.160.50
+Received: from mail-pb0-f50.google.com (mail-pb0-f50.google.com [209.85.160.50])
+	by mail-gw.elcom.com.vn (Postfix) with ESMTP id 08F3A453E1E;
+	Sat, 19 Apr 2014 18:59:30 +0700 (ICT)
+Received: by mail-pb0-f50.google.com with SMTP id md12so2271431pbc.9
+        for <multiple recipients>; Sat, 19 Apr 2014 05:02:42 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=thread-index:thread-topic:from:to:subject:date:message-id
+         :mime-version:content-type:content-transfer-encoding:content-class
+         :importance:priority;
+        bh=DbDcfqNTZAa26ZYiAVHttw1nTSjJE8wIsDNmPFO8pds=;
+        b=syspQXXvmFQk2z44p0dXe0ZlWfc/0B5QO4QojD5uCme+zsTyY2y2283csvdEB6yUBF
+         P2YdRQOcVD0Oz2In2USZHLT3IOUVH9gvXugrpibMdm6P89wrGML0JluEP3dAupkW8FKm
+         uwZhXRCWqDXPXZPA2aaQ5u/a7zK9lHApn+b99f6msk3lpuNrpvJT9geSo2e6Thi6fgJo
+         zKkDteLgNdP8nbOOcQSorG/Jzv2EGB6yUN1UjAsBW2fEgM4bmrfbyBjcpx/W+0bX0PX3
+         T9OhOUqpbHok469YT1YuKGmw84Eea/XYcsY+pKdgVUS48ELkOS663v2Otrx2QObO4CVY
+         Kfqg==
+X-Received: by 10.68.233.37 with SMTP id tt5mr431884pbc.154.1397908962228;
+        Sat, 19 Apr 2014 05:02:42 -0700 (PDT)
+Received: from elcomfljv4w4rt ([101.99.23.171])
+        by mx.google.com with ESMTPSA id g6sm156055536pat.2.2014.04.19.05.02.40
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 19 Apr 2014 05:02:41 -0700 (PDT)
+thread-index: Ac9bx0bK9H7BGJFPS5auWlvWUNHkNg==
+Thread-Topic: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+From: <quanlycv@gmail.com>
+To: <vinhdh@elcom.com.vn>,
+	<nguyenth@elcom.com.vn>
+Subject: =?utf-8?B?UUxDVjogxJDhu4Egbmdo4buLIFFUREEgeMOhYyBuaOG6rW4gecOqdSA=?=
+	=?utf-8?B?Y+G6p3UgbMOgbSB0aMOqbSAh?=
+Date: Sat, 19 Apr 2014 19:02:46 +0700
+Message-ID: <000101cf5bc7$46ca8250$fa06a8c0@elcomfljv4w4rt>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+X-Mailer: Microsoft CDO for Windows 2000
+Content-Class: urn:content-classes:message
+Importance: normal
+Priority: normal
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+QTDA đã xác nhận đồng ý yêu cầu làm thêm cho nhân viên: nguyenth
+
+Mời thực hiện bước tiếp theo: cập nhật đúng KQ làm thêm của bạn trên trang web.
+
+Thank you!
+
